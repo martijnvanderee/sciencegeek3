@@ -1,6 +1,13 @@
 <script setup ts="lang">
 import { storeToRefs } from "pinia";
 import { useToggleStore } from "../state/useToggle";
+
+useHead({
+  script: [
+    { src: "https://identity.netlify.com/v1/netlify-identity-widget.js" },
+  ],
+});
+
 const list = [0, 1, 2, 3, 4, 5];
 
 const store = useToggleStore();
