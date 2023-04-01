@@ -1,45 +1,83 @@
+
 backend:
   name: git-gateway
-  branch: main 
-
-media_folder: /
-media_library:
-  name: cloudinary
-  output_filename_only: true
-  config:
-    multiple: true
-    cloud_name: dta9vptzh
-    api_key: 651661895481873
+  branch: master
+media_folder: /public/img
+public_folder: /img
+publish_mode: editorial_workflow
 
 collections:
-  - name: 'products'
-    label: 'Products'
-    folder: 'content/products'
-    format: 'frontmatter'
+  - name: auteurs
+    label: Auteurs
+    folder: "content/auteurs"
     create: true
-    slug: '{{id}}'
-    editor:
-      preview: false
     fields:
-      - { label: 'Id', name: 'id', widget: uuid }
-      - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: 'Description', name: 'description', widget: 'string',required: false }
-      - { label: 'Publish Date', name: 'date', widget: "datetime"}
-      - { label: 'Amount', name: 'amount', widget: 'number', value_type: "int" }
-      - { label: 'Price', name: 'price', widget: 'number', value_type: "float",  min: 0.01, step: 0.01 }
-      - { label: 'Image Name', name: 'imageName', widget: 'string'}
-      - label: 'Cover Image'
-        name: 'image'
-        widget: 'image'
-        tagname: ''
-        output_filename_only: true
-      - label: "Colors"
-        name: "colors"
-        widget: "select"
-        multiple: true
-        options:
-        - { label: "groen", value: "#ffff" }
-        - { label: "paars", value: "#aaa" }
-        - { label: "wit", value: "#ccc" }
+      - {name: naam, label: Naam}
 
-     
+  - name: tags
+    label: Tags
+    folder: "content/tags"
+    create: true
+    fields:
+      - {name: naam, label: Naam}
+
+  - name: photo's
+    label: Photo's
+    folder: "content/photo's"
+    create: true
+    fields:
+      - {name: onderschrift, label: Onderschrift,required: true}
+      - {name: bron, label: Bron,required: false}
+      - {label: "Image", name: "image", widget: "image",required: true}
+
+  - name: posts
+    label: Posts
+    folder: "content/posts"
+    create: true
+    fields:
+      - {label: "Template Key", name: "templateKey", widget: "hidden", default: "post.template"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Subtitle", name: "Subtitle", widget: "string", required: false}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - name: headerPhoto
+        label: HeaderPhoto
+        widget: relation
+        collection: photo's
+        searchFields: [image,onderschrift]
+        required: true
+        display_fields: [image]
+        valueField: "{{slug}}"
+        options_length: 3
+
+
+      - {label: "Body", name: "body", widget: "markdown"}
+      - label: "Onderwerp"
+        name: "onderwerp"
+        widget: "select"
+        options: ["history","human","nature","quirky","space","tech"]
+      - name: auteur
+        label: Auteur
+        widget: relation
+        collection: auteurs
+        searchFields: [naam]
+        valueField: naam
+      - name: tags
+        label: Tags
+        widget: relation
+        collection: tags
+        searchFields: [naam]
+        multiple: true
+        valueField: naam
+        required: false
+      - name: photo's
+        label: Photo's
+        widget: relation
+        collection: photo's
+        searchFields: [onderschrift]
+        display_fields: [onderschrift]
+        multiple: true
+        valueField: "{{slug}}"
+        required: false
+        options_length: 1
+      - { label: 'Id', name: 'id', widget: uuid }
+
