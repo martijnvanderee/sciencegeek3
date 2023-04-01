@@ -1,0 +1,45 @@
+backend:
+  name: git-gateway
+  branch: main 
+
+media_folder: /
+media_library:
+  name: cloudinary
+  output_filename_only: true
+  config:
+    multiple: true
+    cloud_name: dta9vptzh
+    api_key: 651661895481873
+
+collections:
+  - name: 'products'
+    label: 'Products'
+    folder: 'content/products'
+    format: 'frontmatter'
+    create: true
+    slug: '{{id}}'
+    editor:
+      preview: false
+    fields:
+      - { label: 'Id', name: 'id', widget: uuid }
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Description', name: 'description', widget: 'string',required: false }
+      - { label: 'Publish Date', name: 'date', widget: "datetime"}
+      - { label: 'Amount', name: 'amount', widget: 'number', value_type: "int" }
+      - { label: 'Price', name: 'price', widget: 'number', value_type: "float",  min: 0.01, step: 0.01 }
+      - { label: 'Image Name', name: 'imageName', widget: 'string'}
+      - label: 'Cover Image'
+        name: 'image'
+        widget: 'image'
+        tagname: ''
+        output_filename_only: true
+      - label: "Colors"
+        name: "colors"
+        widget: "select"
+        multiple: true
+        options:
+        - { label: "groen", value: "#ffff" }
+        - { label: "paars", value: "#aaa" }
+        - { label: "wit", value: "#ccc" }
+
+     
