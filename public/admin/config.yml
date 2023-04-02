@@ -7,7 +7,6 @@ publish_mode: editorial_workflow
 media_library:
   name: cloudinary
   config:
-    multiple: true
     cloud_name: ddio9vlzi
     api_key: 868348336488664
 
