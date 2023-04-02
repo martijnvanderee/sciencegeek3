@@ -1,12 +1,21 @@
-<script setup ts="lang">
+<script setup lang="ts">
+import type { QueryBuilderParams } from "@nuxt/content/dist/runtime/types";
+
 import { storeToRefs } from "pinia";
 import { useToggleStore } from "../state/useToggle";
+import { MAX_AMOUNT_POSTS_HOMEPAGE } from "../util/constants";
 
 useHead({
   script: [
     { src: "https://identity.netlify.com/v1/netlify-identity-widget.js" },
   ],
 });
+
+const query: QueryBuilderParams = {
+  path: "/posts",
+  limit: MAX_AMOUNT_POSTS_HOMEPAGE,
+  sort: [{ title: -1 }],
+};
 
 const list = [0, 1, 2, 3, 4, 5];
 
@@ -33,11 +42,13 @@ const { toggle } = store;
                 </article>
 
                 <div class="grid md:grid-cols-3 md:gap-4">
-                  <div v-for="product in list" :key="product._path">
-                    <div>
-                      <CardMobile />
+                  <ContentList :query="query" v-slot="{ list }">
+                    <div v-for="post in list" :key="post._path">
+                      <div>
+                        <CardMobile v-bind="post" :path="post._path" />
+                      </div>
                     </div>
-                  </div>
+                  </ContentList>
                 </div>
                 <div class="divider"></div>
               </div>

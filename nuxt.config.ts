@@ -7,11 +7,17 @@ export default defineNuxtConfig({
     "@pinia/nuxt",
     "@pinia-plugin-persistedstate/nuxt",
   ],
-  css: ["~/assets/css/main.css"],
-  postcss: {
-    plugins: {
-      tailwindcss: {},
-      autoprefixer: {},
+  image: {
+    cloudinary: {
+      baseURL:
+        "https://res.cloudinary.com/ddio9vlzi/image/upload/v1680370771/sciencegeek/",
+    },
+    css: ["~/assets/css/main.css"],
+    postcss: {
+      plugins: {
+        tailwindcss: {},
+        autoprefixer: {},
+      },
     },
   },
 });

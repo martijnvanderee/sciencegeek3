@@ -4,6 +4,13 @@ backend:
   branch: master
 media_folder: /
 publish_mode: editorial_workflow
+media_library:
+  name: cloudinary
+  output_filename_only: true
+  config:
+    multiple: true
+    cloud_name: ddio9vlzi
+    api_key: 868348336488664
 
 collections:
   - name: auteurs

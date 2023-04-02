@@ -1,0 +1,1 @@
+export const MAX_AMOUNT_POSTS_HOMEPAGE = 6;
