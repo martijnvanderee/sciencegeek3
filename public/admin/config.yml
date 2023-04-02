@@ -76,4 +76,4 @@ collections:
       - label: "Tags"
         name: "tags"
         widget: "list"
-        default: ['term_1', 'term_2']
+        field: {label: Tag, name: tag, widget: string}
