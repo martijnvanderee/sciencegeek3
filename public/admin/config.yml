@@ -63,14 +63,6 @@ collections:
         collection: auteurs
         searchFields: [naam]
         valueField: naam
-      - name: tags
-        label: Tags
-        widget: relation
-        collection: tags
-        searchFields: [naam]
-        multiple: true
-        valueField: naam
-        required: false
       - name: photo's
         label: Photo's
         widget: relation
