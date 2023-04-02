@@ -77,3 +77,4 @@ collections:
       - label: "Tags"
         name: "tags"
         widget: "list"
+        default: ['term_1', 'term_2']
