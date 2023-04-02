@@ -77,6 +77,5 @@ collections:
       - label: "Tags"
         name: "tags"
         widget: "list"
-        allow_add: true
-        default: []
-
+        summary: '{{fields.name}}'
+        field: {label: Name, name: name, widget: string}
