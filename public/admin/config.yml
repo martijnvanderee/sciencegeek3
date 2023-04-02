@@ -49,8 +49,6 @@ collections:
         widget: 'image'
         tagname: ''
         allow_multiple: false
-
-
       - {label: "Body", name: "body", widget: "markdown"}
       - label: "Onderwerp"
         name: "onderwerp"
@@ -62,16 +60,6 @@ collections:
         collection: auteurs
         searchFields: [naam]
         valueField: naam
-      - name: photo's
-        label: Photo's
-        widget: relation
-        collection: photo's
-        searchFields: [onderschrift]
-        display_fields: [onderschrift]
-        multiple: true
-        valueField: "{{slug}}"
-        required: false
-        options_length: 1
       - { label: 'Id', name: 'id', widget: uuid }
       - label: "Tags"
         name: "tags"
