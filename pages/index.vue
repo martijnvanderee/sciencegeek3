@@ -13,11 +13,9 @@ useHead({
 
 const query: QueryBuilderParams = {
   path: "/posts",
-  limit: MAX_AMOUNT_POSTS_HOMEPAGE,
+  limit: 100,
   sort: [{ title: -1 }],
 };
-
-const list = [0, 1, 2, 3, 4, 5];
 
 const store = useToggleStore();
 const { state } = storeToRefs(store);
