@@ -6,7 +6,6 @@ media_folder: /
 publish_mode: editorial_workflow
 media_library:
   name: cloudinary
-  output_filename_only: true
   config:
     multiple: true
     cloud_name: ddio9vlzi
