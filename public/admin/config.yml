@@ -49,6 +49,7 @@ collections:
         name: 'headerPhoto'
         widget: 'image'
         tagname: ''
+        allow_multiple: false
 
 
       - {label: "Body", name: "body", widget: "markdown"}
@@ -81,4 +82,9 @@ collections:
         required: false
         options_length: 1
       - { label: 'Id', name: 'id', widget: uuid }
+      - label: "Tags"
+        name: "tags"
+        widget: "list"
+        allow_add: true
+        default: []
 
