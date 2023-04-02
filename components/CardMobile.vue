@@ -24,7 +24,7 @@ console.log(props.headerPhoto, "headerPhoto");
   <NuxtLink :to="props.path">
     <div class="card glass cursor-pointer">
       <figure>
-        <img src="//v2.grommet.io/assets/Wilderpeople_Ricky.jpg" alt="car!" />
+        <img :src="props.headerPhoto" alt="car!" />
       </figure>
       <div class="p-2">
         <h2 class="card-title">{{ props.title }}</h2>
