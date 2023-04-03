@@ -22,7 +22,7 @@ const props = defineProps<Post>();
   <NuxtLink :to="props.path">
     <div class="card glass cursor-pointer">
       <figure>
-        <nuxt-img :src="props.headerPhoto" />
+        <nuxt-img :src="props.headerPhoto[0]" />
       </figure>
       <div class="p-2">
         <h2 class="card-title">{{ props.title }}</h2>
