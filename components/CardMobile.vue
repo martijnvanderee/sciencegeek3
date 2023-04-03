@@ -16,19 +16,17 @@ interface Post {
 }
 
 const props = defineProps<Post>();
-
-console.log(props.headerPhoto, "headerPhoto");
 </script>
 
 <template>
   <NuxtLink :to="props.path">
     <div class="card glass cursor-pointer">
       <figure>
-        <img :src="props.headerPhoto" alt="car!" />
+        <nuxt-img :src="props.headerPhoto" />
       </figure>
       <div class="p-2">
         <h2 class="card-title">{{ props.title }}</h2>
-        <p>Human</p>
+        <p>{{ props.title }}</p>
 
         <div class="card-actions justify-end mt-1">
           <div class="badge badge-outline">Fashion</div>
