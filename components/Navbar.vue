@@ -1,8 +1,14 @@
+<script setup lang="ts">
+const toggle = ref(false);
+</script>
+
 <template>
   <div class="sticky top-0 z-50">
     <div class="navbar bg-primary">
       <div class="navbar-start">
-        <a class="btn btn-ghost normal-case text-xl text-white">daisyUI</a>
+        <NuxtLink class="btn btn-ghost normal-case text-xl text-white" to="/"
+          >daisyUI</NuxtLink
+        >
       </div>
       <div class="navbar-center hidden md:block">
         <button class="btn btn-sm btn-secondary m-1">Quirky</button>

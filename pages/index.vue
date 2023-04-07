@@ -18,8 +18,6 @@ const query: QueryBuilderParams = {
 };
 
 const store = useToggleStore();
-const { state } = storeToRefs(store);
-const { toggle } = store;
 </script>
 
 <template>
@@ -27,9 +25,7 @@ const { toggle } = store;
     <input id="my-drawer" type="checkbox" class="drawer-toggle" />
     <div class="drawer-content">
       <!-- Page content here -->
-
       <Navbar />
-
       <section>
         <div class="content">
           <div class="max-w-5xl mx-auto px-2">
@@ -42,9 +38,7 @@ const { toggle } = store;
                 <div class="grid md:grid-cols-3 md:gap-4">
                   <ContentList :query="query" v-slot="{ list }">
                     <div v-for="post in list" :key="post._path">
-                      <div>
-                        <CardMobile v-bind="post" :path="post._path" />
-                      </div>
+                      <CardMobile v-bind="post" :path="post._path" />
                     </div>
                   </ContentList>
                 </div>

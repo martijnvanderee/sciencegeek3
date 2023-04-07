@@ -8,9 +8,7 @@ interface Post {
   onderwerp: string;
   auteur: string;
   tags: string[];
-  html: string;
   headerPhoto: string;
-  slug: string;
   body: any;
   path: string;
 }
@@ -22,7 +20,7 @@ const props = defineProps<Post>();
   <NuxtLink :to="props.path">
     <div class="card glass cursor-pointer">
       <figure>
-        <nuxt-img :src="props.headerPhoto[0]" />
+        <!-- <nuxt-img :src="props.headerPhoto[0]" /> -->
       </figure>
       <div class="p-2">
         <h2 class="card-title">{{ props.title }}</h2>

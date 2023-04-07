@@ -1,15 +1,12 @@
-<script setup lang="ts">
-const { data } = await useAsyncData("hello", () =>
-  queryContent("/hello").findOne()
-);
-</script>
+<script setup lang="ts"></script>
 
 <template>
   <ContentQuery :path="$route.path" v-slot="{ data }">
     <Navbar />
     <main>
       <article class="prose mx-auto">
-        <nuxt-img :src="data[0].headerPhoto" />
+        <nuxt-img :src="data[0].headerPhoto[0]" />
+        {{ data[0]["headerPhoto name"] }}
         <h1>{{ data[0].title }}</h1>
         <h2>{{ data[0].Subtitle }}</h2>
 
