@@ -58,8 +58,8 @@ collections:
         label: Auteur
         widget: relation
         collection: auteurs
-        searchFields: [naam]
-        valueField: naam
+        search_fields: [naam]
+        value_field: naam
       - { label: 'Id', name: 'id', widget: uuid }
       - label: "Tags"
         name: "tags"
