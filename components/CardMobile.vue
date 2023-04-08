@@ -14,13 +14,15 @@ interface Post {
 }
 
 const props = defineProps<Post>();
+
+console.log(props.headerPhoto);
 </script>
 
 <template>
   <NuxtLink :to="props.path">
     <div class="card glass cursor-pointer">
       <figure>
-        <!-- <nuxt-img :src="props.headerPhoto[0]" /> -->
+        <nuxt-img :src="props.headerPhoto" />
       </figure>
       <div class="p-2">
         <h2 class="card-title">{{ props.title }}</h2>

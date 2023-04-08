@@ -1,7 +1,7 @@
 export interface Post {
   title: string;
   subtitle?: string;
-  date: Date;
+  date: string;
   onderwerp: string;
   auteur: string;
   tags: string[];

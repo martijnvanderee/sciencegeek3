@@ -3,7 +3,8 @@ templateKey: post.template
 title: "Antwoord op Fermi-paradox: zitten aliens ondergronds?"
 Subtitle: ""
 date: 2021-06-11T15:31:14.914Z
-headerPhoto: map-onderschrift-aliens-bevinden-zich-waarschijnlijk-op-planeten-die-ook-over-ondergronds-water-beschikken-bron-pixabay-com-image1-image-img-alien-rugzakje-landschap-jpg
+headerPhoto: https://res.cloudinary.com/ddio9vlzi/image/upload/v1680936063/sciencegeek/posts/alien-rugzakje-landschap.jpg
+
 onderwerp: space
 auteur: Monique Siemsen
 tags:
@@ -15,9 +16,10 @@ tags:
   - leven op andere planeten
   - is er buitenaards leven
 photo's:
-  - map-bron-pixabay-com-onderschrift-grot-water-blauw-image-img-grot-water-blauw-jpeg
+  - https://res.cloudinary.com/ddio9vlzi/image/upload/v1680936063/sciencegeek/posts/grot-water-blauw-image-img-grot-water-blauw.jpeg
 ---
-**We moeten niet naar tekenen van leven zoeken aan de oppervlakten van planeten, maar onder de oppervlakten en wel tot tientallen kilometers diep.** 
+
+**We moeten niet naar tekenen van leven zoeken aan de oppervlakten van planeten, maar onder de oppervlakten en wel tot tientallen kilometers diep.**
 
 De kans dat intelligent leven zich ondergronds bevindt, is namelijk vele malen groter dan dat het zichtbaar aan de oppervlakte rondscharrelt.
 
@@ -37,12 +39,12 @@ Een voordeel is dat IWOWs niet, zoals de aarde, zich binnen een bepaald bereik v
 
 Verder is het leven in een watermassa aan de oppervlakte van een planeet veel kwetsbaarder dan eventueel leven ondergronds, waar het beschermd wordt door een dikke laag gesteente. Denk bijvoorbeeld aan de impact die een inslag van een asteroïde kan hebben op het leven op aarde, maar ook de straling van een zonnevlam kan veel schade aan leven toebrengen. Dat zijn factoren die minder risico opleveren als je een organisme bent, dat in een water leeft, tientallen kilometers onder de oppervlakte.
 
-De wetenschappers van het Southwest Research Institute noemen de aanwezigheid van intelligent leven op IWOWs een grote onzekerheid, maar de combinatie van veelvoorkomendheid van IWOWs en diens betere bescherming van leven, maakt dat het wel veel waarschijnlijker is dat áls aliens bestaan, ze dat doen op een IWOW. 
+De wetenschappers van het Southwest Research Institute noemen de aanwezigheid van intelligent leven op IWOWs een grote onzekerheid, maar de combinatie van veelvoorkomendheid van IWOWs en diens betere bescherming van leven, maakt dat het wel veel waarschijnlijker is dat áls aliens bestaan, ze dat doen op een IWOW.
 
 **Eventuele ondergrondse aliens moeilijk op te sporen**
 
 Al die bescherming is leuk en aardig voor buitenaards leven, maar het bemoeilijkt tevens onze zoektocht naar tekenen van dit leven. Dezelfde factoren die het leven van deze wezens mogelijk maken en beschermen, houden hen ook verborgen voor menselijke zoekapparatuur. Hiermee is een oplossing geboden voor de Fermi-paradox, te weten: als intelligent leven op andere planeten zo goed mogelijk is, hoe kan het dan dat we dit leven niet kunnen vinden? Door tientallen kilometers rots bijvoorbeeld dus. En dáár zijn voorlopig nog geen oplossingen voor in de praktijk te brengen.
 
-*Gepubliceerd op 18.03.2021*
+_Gepubliceerd op 18.03.2021_
 
-*Bron: rapport Southwest Research Institute Worlds with Underground Oceans may be more conducive to life than worlds with surface oceans like Earth door S.A. Stern*
+_Bron: rapport Southwest Research Institute Worlds with Underground Oceans may be more conducive to life than worlds with surface oceans like Earth door S.A. Stern_

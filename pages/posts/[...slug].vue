@@ -5,7 +5,7 @@
     <Navbar />
     <main>
       <article class="prose mx-auto">
-        <nuxt-img :src="data[0].headerPhoto[0]" />
+        <nuxt-img :src="data[0].headerPhoto" />
         {{ data[0]["headerPhoto name"] }}
         <h1>{{ data[0].title }}</h1>
         <h2>{{ data[0].Subtitle }}</h2>
