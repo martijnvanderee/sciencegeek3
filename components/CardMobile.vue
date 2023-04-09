@@ -4,7 +4,7 @@ import { Post } from "../types";
 interface Post {
   title: string;
   subtitle?: string;
-  date: Date;
+  date: string;
   onderwerp: string;
   auteur: string;
   tags: string[];
@@ -14,8 +14,6 @@ interface Post {
 }
 
 const props = defineProps<Post>();
-
-console.log(props.headerPhoto);
 </script>
 
 <template>
