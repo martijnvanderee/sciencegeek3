@@ -43,11 +43,15 @@ collections:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Subtitle", name: "Subtitle", widget: "string", required: false}
       - {label: "Publish Date", name: "date", widget: "datetime"}
-      - { label: 'HeaderPhoto name', name: 'headerPhoto name', widget: 'string'}
-      - label: 'HeaderPhoto'
-        name: 'headerPhoto'
-        widget: 'image'
-        tagname: ''
+      - name: headerPhoto
+        label: HeaderPhoto
+        widget: relation
+        collection: photo's
+        searchFields: [image,onderschrift]
+        required: true
+        display_fields: [image]
+        valueField: "{{slug}}"
+        options_length: 3
         allow_multiple: false
       - {label: "Body", name: "body", widget: "markdown"}
       - label: "Onderwerp"
