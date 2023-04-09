@@ -49,7 +49,7 @@ collections:
         collection: photo's
         searchFields: [image,onderschrift]
         required: true
-        display_fields: [image]
+        display_fields: [onderschrift]
         valueField: "{{slug}}"
         options_length: 3
         allow_multiple: false
