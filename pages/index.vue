@@ -1,7 +1,6 @@
 <script setup lang="ts">
 import type { QueryBuilderParams } from "@nuxt/content/dist/runtime/types";
 
-import { storeToRefs } from "pinia";
 import { useToggleStore } from "../state/useToggle";
 import { MAX_AMOUNT_POSTS_HOMEPAGE } from "../util/constants";
 
