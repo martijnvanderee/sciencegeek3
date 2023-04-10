@@ -1,4 +1,4 @@
-
+local_backend: true
 backend:
   name: git-gateway
   branch: master
@@ -50,7 +50,7 @@ collections:
         searchFields: [image,onderschrift]
         required: true
         display_fields: [onderschrift]
-        valueField: "image"
+        valueField: "bron"
         options_length: 3
         allow_multiple: false
       - {label: "Body", name: "body", widget: "markdown"}

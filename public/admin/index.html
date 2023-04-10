@@ -39,6 +39,24 @@
             )
         },
     })
+
+    var PostPreview = createClass({
+            render: function () {
+            const { widgetFor} = this.props
+
+            const subtitle = !!entry.getIn(['data', 'subtitle']);
+
+            const imageSrc = widgetFor("headerPhoto").props.value       
+                return h('div', {},
+                    h('div', { "className": "title" }, this.props.widgetFor('title')),
+                    subtitle &&  h('div', { "className": "subtitle" }, this.props.widgetFor('subtitle')),
+                    h('img', { src: imageSrc }),
+                    h('div', { "className": "body" }, this.props.widgetFor('body'))
+                );
+            }
+        });
+
+    CMS.registerPreviewTemplate("posts", PostPreview);
     CMS.registerWidget('uuid', UuidWidget)
     CMS.registerPreviewStyle("./style.css");
         
