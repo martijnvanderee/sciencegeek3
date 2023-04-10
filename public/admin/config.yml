@@ -50,7 +50,7 @@ collections:
         searchFields: [image,onderschrift]
         required: true
         display_fields: [onderschrift]
-        value_field: "image"
+        valueField: "image"
         options_length: 3
         allow_multiple: false
       - {label: "Body", name: "body", widget: "markdown"}
