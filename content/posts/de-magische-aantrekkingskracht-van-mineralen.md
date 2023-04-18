@@ -2,9 +2,10 @@
 templateKey: post.template
 title: Waarom hebben mineralen zo'n magische aantrekkingskracht?
 date: 2022-02-22T09:11:22.934Z
-headerPhoto: map-image-img-amethist-header-mineralen-jpg-bron-pixabay-com-onderschrift-de-magische-kracht-van-mineralen
+headerPhoto: https://res.cloudinary.com/ddio9vlzi/image/upload/v1680936062/sciencegeek/posts/amethist-header-mineralen.jpg
 onderwerp: quirky
 auteur: Monique Siemsen
+id: d56gZFyyY-H7od39wGO0-
 tags:
   - maatschappij
   - corona-crisis
@@ -32,7 +33,7 @@ Daar is vanuit de wetenschap weinig aanwijzing voor en mineralen mogen in Nederl
 
 "Neem bijvoorbeeld graniet, dat komt door een magmatisch proces tot stand en wanneer dat eenmaal ontstaan is en zich op kamertemperatuur bevindt, gebeurt er verder niets meer mee. Je zou dan echt maatregelen moeten nemen om die stoffen te laten reageren. Zo reageert marmer bijvoorbeeld wel met een sterk zuur. En kan verrijkt uranium radio-activiteit vertonen. Maar dat gaat niemand op de huid toepassen.”
 
-![Fluorescentie van lazuriet, bekeken onder een UV-lamp.](/img/lazuriet-fluor-mineralen.jpg "Pixabay.com")
+![Fluorescentie van lazuriet, bekeken onder een UV-lamp.](https://res.cloudinary.com/ddio9vlzi/image/upload/v1680936063/sciencegeek/posts/lazuriet-fluor-mineralen.jpg "Pixabay.com")
 
 Het is dus niet zo dat een mineraal geen straling kan afgeven. Nog een voorbeeld van opgeslagen energie en afgegeven straling door de steen, is die van zonlicht, dat door de steen is geabsorbeerd. In het geval van fluorescentie, zitten er stoffen in het mineraal die niet alleen het licht weerkaatsen waarmee we de stenen met het blote oog kunnen zien. Ze absorberen ook tijdelijk een kleine hoeveelheid licht die zij vervolgens met een andere golflengte weer vrijgeven. Dat proces is te zien in het donker met een UV-lamp, als het oplichten of gloeien van de steen in verschillende kleuren.  In dat geval is er sprake van fotonische activiteit in de steen, namelijk de reactieve lichtdeeltjes oftewel fotons, in het mineraal. Deze fotonische activiteit heeft echter geen bewezen effect op het menselijke welzijn. Het wordt gewoon mooi gevonden.
 
@@ -42,7 +43,7 @@ De opgeslagen warmte in stenen van zonlicht in het algemeen, kan uiteraard wel p
 
 Overigens zijn er wel mineralen die het menselijk lichaam kunnen voorzien van belangrijke bouwstenen. Dan denken we aan voorbeelden als zink en selenium, nutriënten in de menselijke voedingsleer. We maken ook gebruik van bauxiet, kwartszand en lithium in de technologie en in de bouw. Ons hele leven is wat dat betreft opgebouwd uit mineralen.  Dat zijn niet de zogenaamde knuffelstenen die in de alternatieve winkels verkocht worden en moeten pronken in vitrines of om de nek. Ook al zijn ze niet zeldzaam of hebben ze geen bijzondere eigenschappen.
 
-![Mineralen als agaat worden met tonnen tegelijk gedolven en per gram verkocht.](/img/mijnbouw-mineralen-veldplaat.jpg "Pixabay.com")
+![Mineralen als agaat worden met tonnen tegelijk gedolven en per gram verkocht.](https://res.cloudinary.com/ddio9vlzi/image/upload/v1680936064/sciencegeek/posts/mijnbouw-mineralen-veldplaat.jpg "Pixabay.com")
 
 In de mineralenwinkels beginnen de prijzen voor deze knuffelstenen vanaf een paar euro. Vaak per gram. Zo heb je een stukje amazoniet van 2 vierkante centimeter voor 6 euro. Dat is een marktwaarde, want dit soort mineralen zijn niet uniek. Agaat, kwarts en bergkristal zijn zeer veel voorkomende stoffen in de veldplaten van de aarde. Zo’n tweederde van de aardkorst is ermee bedekt en ze worden dan ook met tonnen tegelijk uit de grond gedolven.
 
@@ -62,7 +63,7 @@ De aantrekkingskracht van mineralen beperkte zich niet alleen tot Europese besch
 
 De magische aantrekkingskracht van de steen is dus van alle tijden en windstreken. Maar dat verklaart nog niet de huidige toename in de verkoop van mineralen. Volgens de statistieken van de groothandel was de grootste afnemer de werkende vrouw tussen de 30 en 50 jaar. 
 
-![Veelvoorkomend in de aardkorst, maar zeldzaam als bescherming in barre tijden. Dat zie je, dat betaal je.](/img/agaat-geslepen-mineralen.jpg "Pixabay.com")
+![Veelvoorkomend in de aardkorst, maar zeldzaam als bescherming in barre tijden. Dat zie je, dat betaal je.](https://res.cloudinary.com/ddio9vlzi/image/upload/v1680934602/sciencegeek/posts/agaat-geslepen-mineralen.jpg "Pixabay.com")
 
 Deze was tot 2021 verantwoordelijk voor 80% van de afname van mineralen. Maar dat is sterk dalende. Ook de alternatieve therapeut heeft de mineraal ontdekt en dit jaar alleen al bestelden meer dan 8000 therapeuten mineralen om hun cliënten bij te staan bij kwalen. En dan is er de jongste groep consumenten: meisjes in de leeftijd van 13 tot 18 jaar die in snel tempo de spirituele winkels van hun voorraden afhelpen. Toen in februari van dit jaar een Amerikaanse influencer op Tic Toc een filmpje maakte over moldaviet, veroorzaakte dit een run op het spul in de Nederlandse winkels. Binnen 14 dagen was er geen brokje moldaviet in Nederland te verkrijgen en steeg de inkoopprijs van 3 euro per gram, naar 15 euro per gram.
 

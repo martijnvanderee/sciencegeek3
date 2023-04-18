@@ -2,7 +2,7 @@
 templateKey: post.template
 title: Computers wereldwijd bedreigd door ingebouwde hardware-fout
 date: 2021-06-11T15:19:17.905Z
-headerPhoto: /img/vrouw-bed-computer.jpg
+headerPhoto: https://res.cloudinary.com/ddio9vlzi/image/upload/v1680936062/sciencegeek/posts/vrouw-bed-computer.jpg
 onderwerp: tech
 auteur: Monique Siemsen
 id: FBBmMNCKHRJ6CZTZU2KBM
@@ -18,7 +18,7 @@ Thuis kunnen we onze laptop of pc al amper missen, laat staan hoe wereldwijde in
 
 Het team van de Universiteit in Virginia heeft de ontdekte fout zelfs een naam gegeven, te weten Spectre. Het betreft een inconsistentie in de hardware, die is ingebouwd in de processors van moderne computers. 
 
-![Foto: Pixabay.com. De snelheid van onze computers, maakt ze zeer kwetsbaar voor hackers.](/img/man-vraagteken-computer.jpg)
+![Foto: Pixabay.com. De snelheid van onze computers, maakt ze zeer kwetsbaar voor hackers.](https://res.cloudinary.com/ddio9vlzi/image/upload/v1680936063/sciencegeek/posts/man-vraagteken-computer.jpg)
 
 Computers vandaag de dag zijn zo snel omdat in die hardware gebruik wordt gemaakt van zogenaamde ‘speculative execution’ oftewel ‘uitvoering die kan speculeren’. Processors kunnen daarmee voorspellen welke handelingen van de gebruiker er volgen en zelfs op die voorspelde handelingen vooruitlopen. Denk daarbij bijvoorbeeld aan predictor functies als je iets wilt typen.
 

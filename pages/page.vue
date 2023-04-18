@@ -1,4 +1,4 @@
-<script setup ts="lang">
+<script setup lang="ts">
 import { storeToRefs } from "pinia";
 import { useToggleStore } from "../state/useToggle";
 const list = [0, 1, 2, 3, 4, 5];

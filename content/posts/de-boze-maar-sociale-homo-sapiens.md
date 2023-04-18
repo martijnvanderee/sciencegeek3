@@ -2,9 +2,10 @@
 templateKey: post.template
 title: De boze, maar sociale en zelfverzekerde homo sapiens
 date: 2023-01-25T22:20:00.000Z
-headerPhoto: map-image-img-boosheid-engel-der-wrake-jpg-bron-pixabay-com-onderschrift-boosheid-als-nuttig-engel-der-wrake
+headerPhoto: https://res.cloudinary.com/ddio9vlzi/image/upload/v1680936062/sciencegeek/posts/boosheid-engel-der-wrake.jpg
 onderwerp: human
 auteur: Monique Siemsen
+id: Arw2hFVmpumA7s4VD2lbz
 tags:
   - adrenaline
   - boosheid
@@ -19,7 +20,7 @@ tags:
 
 Boosheid is de enige negatieve emotie, die zich gedraagt als een positieve emotie. Je kan dood gaan aan je eigen boosheid. En niet alleen je eigen lijf en leden ernstig beschadigen, maar ook die van een ander. Maar boosheid geeft ons ook zelfvertrouwen en conflictoplossend vermogen. Maak kennis met de menselijke broodnodige en complexe boosheid.
 
-![Boosheid is de enige negatieve emotie, die zich gedraagt als een postieve emotie.](/img/boosheid-man-spier-gezicht-fantasy.jpg "Pixabay.com")
+![Boosheid is de enige negatieve emotie, die zich gedraagt als een postieve emotie.](https://res.cloudinary.com/ddio9vlzi/image/upload/v1680936057/sciencegeek/posts/boosheid-man-spier-gezicht-fantasy.jpg "Pixabay.com")
 
 Het begint allemaal in onze hersenen. Woede heeft een signaalfunctie en dat betekent dat de amygdala een belangrijke rol speel. De amygdala, heet ook wel amandelkern en ligt diep in de temporale kwab. Het is het hersengedeelte dat snel en volledig automatisch op prikkels van angst en seksualiteit kan reageren. Wetenschappers hebben bij boze mensen een correlatie gemeten tussen de hersenactiviteit in de amygdala en activiteit elders in de hersenen.
 
@@ -27,7 +28,7 @@ Het begint allemaal in onze hersenen. Woede heeft een signaalfunctie en dat bete
 
 Olga Klimecki is neurowetenschapper en psycholoog aan de Universiteit van Genève. Zij doet onderzoek naar activiteit van het boze brein en vond een negatief verband tussen de amygdala en de dorsolaterale prefrontale cortex (DLPFC), waar de controle van emoties en planning van onze acties plaats vindt. "Kwaadheid is per definitie de emotie die mensen ervaren als zij onrecht of oneerlijkheid ervaren. We hebben de hersenen gemeten van mensen die we lieten deelnemen aan een spel. De proefpersonen kregen te maken met spelers die opzettelijk vals speelden. Als we de acties van de nare speler opvoerden en de deelnemers confronteerden met het gezicht van de valse speler, zagen we sterk verhoogde activiteit in de DLPFC, de amygdala en het bovenste deel van de temporale kwab. De prefrontale cortex moest dus hard aan de slag om de boosheid te verwerken en de planning van het spel aan te passen. Om onze woede te reguleren, hebben we behoorlijk wat denkkracht nodig.”
 
-![Adrenaline zorgt ervoor dat je snel kunt nadenken, meppen of wegrennen.](/img/boosheid-adrenaline-chemisch-molecuul.png "Pixabay.com")
+![Adrenaline zorgt ervoor dat je snel kunt nadenken, meppen of wegrennen.](https://res.cloudinary.com/ddio9vlzi/image/upload/v1680936057/sciencegeek/posts/boosheid-adrenaline-chemisch-molecuul.png "Pixabay.com")
 
 Het is precies deze eigenschap van boosheid, waardoor we tevens verstandige beslissingen kunnen maken. Zowel het ervaren van de eigen kwaadheid als signalen opvangen van de kwaadheid van iemand anders, zet onze hersenen aan het werk. Als we goed kunnen reguleren, worden we er wijzer van. We zullen wel moeten, want woede laat ons niet kiezen. Volgens Wesley Moons, neuropsycholoog aan de universiteit van Californië, vergt boosheid actie.  “We omschrijven het als een negatieve emotie omdat we het vervelend vinden ons boos te voelen. Maar anders dan negatieve emoties als angst of walging, zorgt boosheid niet voor een ontwijkende reactie. Als we boos zijn willen we de daarvoor verantwoordelijke situatie of persoon, benaderen. 
 
@@ -37,7 +38,7 @@ Dat heeft boosheid gemeen met positieve emoties. Denk aan verliefdheid en je beh
 
 Dat gevoel te reguleren lukt echter niet altijd. Boosheid is inspannend voor ons brein en de rest van ons lichaam. Zodra we een oneerlijkheid signaleren die we ernstig genoeg vinden, maken we ons gereed om strijd te leveren. De hersenen slaan aan en sturen noodsignalen uit naar het lichaam. Onder meer de bijnieren gaan daarop aan de slag en brengen meteen de stresshormonen cortisol en adrenaline in de bloedbaan. Adrenaline dient als neurotransmitter, oftewel een chemische boodschappenjongen die zenuwimpulsen doorbrengt aan organen zoals je hart. Hierdoor klopt je hart sneller en wordt het bloed sneller rondgepompt. Vooral naar de hersenen en je spieren. Cortisol en adrenaline zorgen onmiddellijk voor een verhoogd glucoseniveau in je bloed, dat de hersenen van extra brandstof en energie voorziet. Met een scherpe geest en alert lichaam, ben je er nu optimaal toe uitgerust om snel te handelen en ervoor te zorgen dat je bestaansmiddelen niet worden afgepakt. Je kunt de ander makkelijk flink de waarheid zeggen en je lichaam is paraat om te vechten of te vluchten als dat moet. En mocht je onverhoopt toch een tik op je neus krijgen, dan staat die cortisol ook klaar als natuurlijke ontstekingsremmer.
 
-![Zeeleeuwen vechten om een beter plekje in de zon. Wij ook.](/img/boosheid-zeeleeuwen-ruzie.jpg "Pixabay.com")
+![Zeeleeuwen vechten om een beter plekje in de zon. Wij ook.](https://res.cloudinary.com/ddio9vlzi/image/upload/v1680936057/sciencegeek/posts/boosheid-zeeleeuwen-ruzie.jpg "Pixabay.com")
 
 Daarmee blijkt boosheid een nuttige emotie die we nodig hebben om te overleven. Maar wat gebeurt er als we ondanks onze furie de oneerlijkheid toch niet kunnen verhelpen? Of als we heel vaak onrecht ervaren of juist helemaal nooit? Dan gaan we respectievelijk wraak nemen, ziek worden en ongelukkige gevoelens cultiveren.
 
@@ -47,7 +48,7 @@ Als mensen de oneerlijke situatie niet kunnen verhelpen met de door hun gedoseer
 
 Er is dan ook zoiets als te snel of te veel kwaad worden. Dan zijn onze spieren te vaak aangespannen en staan we stijf van de stress. De adrenaline blijft de bloeddruk maar verhogen en we krijgen hartkloppingen. De bijnieren kunnen de cortisolproductie niet meer bijbenen. Ze raken uitgeput. Zonder de ontstekingsremmende werking van cortisol, krijgt het lichaam makkelijker infecties en ontstekingen. Extreem veelvuldige boosheid kan dan ook leiden tot hartklachten en zelfs de dood.
 
-![In onze relaties kan onze boosheid voor meer verdieping en gelijkwaardigheid zorgen.](/img/boosheid-ruzie-stel-verdieping.jpg "Pixabay.com")
+![In onze relaties kan onze boosheid voor meer verdieping en gelijkwaardigheid zorgen.](https://res.cloudinary.com/ddio9vlzi/image/upload/v1680936057/sciencegeek/posts/boosheid-ruzie-stel-verdieping.jpg "Pixabay.com")
 
 Niet boos worden, is echter ook geen gezonde optie. Jill Lobbestael is professor klinische psychologie aan de universiteit van Maastricht. Zij behandelde mensen die nooit boos worden. “Woede is een emotie die onderdrukt kan worden als je bang bent voor de gevolgen of voor een negatief sociaal oordeel. Echt geen boosheid kúnnen voelen, komt ook voor. Dat zijn mensen met zo weinig zelfvertrouwen, dat ze iedere situatie maar accepteren en als rechtvaardig beoordelen. Dan helpt het als anderen boos voor hén worden. Dat geeft hen het zelfvertrouwen om situaties te herkennen als oneerlijk. Zonder die boosheid blijven zij in een voor hen ongunstige situatie. Dit kan leiden tot minderwaardige gevoelens en depressie.
 
