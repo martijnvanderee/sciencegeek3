@@ -3,9 +3,9 @@ templateKey: post.template
 title: Bemanning maanmissie Artemis in gevaar bij vertraagd vertrek
 date: 2021-06-11T15:37:30.633Z
 headerPhoto: https://res.cloudinary.com/ddio9vlzi/image/upload/v1680936063/sciencegeek/posts/maan-zee-maanlicht.jpg
-
 onderwerp: space
 auteur: Monique Siemsen
+id: SYYvDqL33EkTYjwv4itp2
 tags:
   - Artemis, maanmissie, maan, zonnevlammen, zonnestormen
 photo's:

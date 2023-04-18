@@ -1,5 +1,5 @@
 ---
 onderschrift: Speurneus Vergrootglas Vingerafdruk
 bron: Pixabay.com 422737
-image: /img/speurneus-vergrootglas-vingerafdruk.png
+image: https://res.cloudinary.com/ddio9vlzi/image/upload/v1680936071/sciencegeek/posts/speurneus-vergrootglas-vingerafdruk.png
 ---

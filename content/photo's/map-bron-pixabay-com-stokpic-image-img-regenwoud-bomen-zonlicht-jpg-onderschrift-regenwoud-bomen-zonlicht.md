@@ -1,5 +1,5 @@
 ---
 onderschrift: Regenwoud Bomen Zonlicht
 bron: Pixabay.com Stokpic
-image: /img/regenwoud-bomen-zonlicht.jpg
+image: https://res.cloudinary.com/ddio9vlzi/image/upload/v1680936062/sciencegeek/posts/regenwoud-bomen-zonlicht.jpg
 ---

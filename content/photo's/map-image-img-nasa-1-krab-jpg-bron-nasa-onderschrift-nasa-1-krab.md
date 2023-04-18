@@ -1,5 +1,5 @@
 ---
 onderschrift: nasa 1 krab
 bron: NASA
-image: /img/nasa-1-krab.jpg
+image: https://res.cloudinary.com/ddio9vlzi/image/upload/v1680936062/sciencegeek/posts/nasa-1-krab.jpg
 ---

@@ -1,5 +1,5 @@
 ---
 onderschrift: desinformatie collage
 bron: Pixabay.com
-image: /img/desinformatie-collage.jpg
+image: https://res.cloudinary.com/ddio9vlzi/image/upload/v1680936062/sciencegeek/posts/desinformatie-collage.jpg
 ---

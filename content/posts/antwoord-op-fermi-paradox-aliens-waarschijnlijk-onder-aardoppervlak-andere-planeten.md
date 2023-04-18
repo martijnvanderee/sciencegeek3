@@ -3,10 +3,10 @@ templateKey: post.template
 title: "Antwoord op Fermi-paradox: zitten aliens ondergronds?"
 Subtitle: ""
 date: 2021-06-11T15:31:14.914Z
-headerPhoto: https://res.cloudinary.com/ddio9vlzi/image/upload/v1680936063/sciencegeek/posts/alien-rugzakje-landschap.jpg
-
+headerPhoto: https://res.cloudinary.com/ddio9vlzi/image/upload/v1680947153/sciencegeek/posts/alien-rugzakje-landschap.jpg
 onderwerp: space
 auteur: Monique Siemsen
+id: NecH38YIdBDTEClY_CnEQ
 tags:
   - aliens, IWOW, planeten, onderzoek
   - aarde

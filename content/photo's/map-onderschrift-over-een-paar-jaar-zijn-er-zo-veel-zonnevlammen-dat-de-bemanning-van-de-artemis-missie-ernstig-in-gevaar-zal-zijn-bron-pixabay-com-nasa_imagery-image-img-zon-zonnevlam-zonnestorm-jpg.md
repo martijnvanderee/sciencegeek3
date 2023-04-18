@@ -4,5 +4,3 @@ onderschrift: Over een paar jaar zijn er zo veel zonnevlammen, dat de bemanning
 bron: Pixabay.com Nasa_Imagery.
 image: https://res.cloudinary.com/ddio9vlzi/image/upload/v1680934602/sciencegeek/posts/zon-zonnevlam-zonnestorm.jpg
 ---
-
-https://res.cloudinary.com/ddio9vlzi/image/upload/v1680934602/sciencegeek/posts/zon-zonnevlam-zonnestorm.jpg

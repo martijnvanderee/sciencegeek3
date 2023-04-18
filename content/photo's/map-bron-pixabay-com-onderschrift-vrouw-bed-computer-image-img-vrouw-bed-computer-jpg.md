@@ -1,5 +1,5 @@
 ---
 onderschrift: Vrouw Bed Computer
 bron: Pixabay.com
-image: /img/vrouw-bed-computer.jpg
+image: https://res.cloudinary.com/ddio9vlzi/image/upload/v1680936062/sciencegeek/posts/vrouw-bed-computer.jpg
 ---

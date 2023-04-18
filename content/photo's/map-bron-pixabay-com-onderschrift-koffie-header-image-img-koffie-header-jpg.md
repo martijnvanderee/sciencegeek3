@@ -1,5 +1,5 @@
 ---
 onderschrift: koffie header
 bron: Pixabay.com
-image: /img/koffie-header.jpg
+image: https://res.cloudinary.com/ddio9vlzi/image/upload/v1680936062/sciencegeek/posts/koffie-header.jpg
 ---

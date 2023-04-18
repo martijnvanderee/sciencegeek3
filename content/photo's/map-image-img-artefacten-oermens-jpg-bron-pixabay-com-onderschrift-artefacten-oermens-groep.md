@@ -1,5 +1,5 @@
 ---
 onderschrift: artefacten oermens groep
 bron: Pixabay.com
-image: /img/artefacten-oermens.jpg
+image: https://res.cloudinary.com/ddio9vlzi/image/upload/v1680936062/sciencegeek/posts/artefacten-oermens.jpg
 ---

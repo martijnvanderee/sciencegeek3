@@ -42,7 +42,7 @@
 
     var PostPreview = createClass({
             render: function () {
-            const { widgetFor} = this.props
+            const { widgetFor,entry} = this.props
 
             const subtitle = !!entry.getIn(['data', 'subtitle']);
 

@@ -1,5 +1,5 @@
 ---
 onderschrift: Typemachine Papier Fake news
 bron: Pixabay.com imageO
-image: /img/typemachine-papier-fake-news.jpeg
+image: https://res.cloudinary.com/ddio9vlzi/image/upload/v1680936071/sciencegeek/posts/typemachine-papier-fake-news.jpg
 ---

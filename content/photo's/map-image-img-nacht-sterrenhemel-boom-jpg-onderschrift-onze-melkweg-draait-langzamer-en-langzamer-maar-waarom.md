@@ -1,4 +1,4 @@
 ---
 onderschrift: Onze melkweg draait langzamer en langzamer. Maar waarom?
-image: /img/nacht-sterrenhemel-boom.jpg
+image: https://res.cloudinary.com/ddio9vlzi/image/upload/v1680936062/sciencegeek/posts/nacht-sterrenhemel-boom.jpg
 ---

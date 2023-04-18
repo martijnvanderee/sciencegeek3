@@ -1,5 +1,5 @@
 ---
 onderschrift: libido lapzwans header
 bron: Nathan Cowley
-image: /img/lapzwans-libido-header.jpg
+image: https://res.cloudinary.com/ddio9vlzi/image/upload/v1680936062/sciencegeek/posts/lapzwans-libido-header.jpg
 ---

@@ -1,5 +1,5 @@
 ---
 onderschrift: nasa 2 dode ster in krab
 bron: NASA
-image: /img/nasa-2-dode-ster-in-krab.jpg
+image: https://res.cloudinary.com/ddio9vlzi/image/upload/v1680936062/sciencegeek/posts/nasa-2-dode-ster-in-krab.jpg
 ---

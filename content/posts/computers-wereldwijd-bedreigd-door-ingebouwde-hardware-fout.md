@@ -2,9 +2,10 @@
 templateKey: post.template
 title: Computers wereldwijd bedreigd door ingebouwde hardware-fout
 date: 2021-06-11T15:19:17.905Z
-headerPhoto: map-image-img-man-vraagteken-computer-jpg-onderschrift-onze-computers-bevatten-al-onze-belangrijke-en-intieme-data-en-een-inbouwfout-maakt-hen-allemaal-kwetsbaar-bron-pixabay-com-stok-ic
+headerPhoto: /img/vrouw-bed-computer.jpg
 onderwerp: tech
 auteur: Monique Siemsen
+id: FBBmMNCKHRJ6CZTZU2KBM
 tags:
   - computer, hacken, processor, inbouwfout, Spectre
 photo's: []

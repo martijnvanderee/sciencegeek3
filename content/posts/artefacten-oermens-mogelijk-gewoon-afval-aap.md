@@ -5,6 +5,7 @@ date: 2023-03-24T14:53:23.777Z
 headerPhoto: https://res.cloudinary.com/ddio9vlzi/image/upload/v1680936063/sciencegeek/posts/artefacten-stenen-bijl.jpg
 onderwerp: history
 auteur: Monique Siemsen
+id: QzK6h3Sd2rEsbbE2y8Ir4
 tags:
   - oermens
   - hominiden

@@ -5,6 +5,7 @@ date: 2022-07-03T16:55:22.635Z
 headerPhoto: https://res.cloudinary.com/ddio9vlzi/image/upload/v1680936063/sciencegeek/posts/soldaten-cb.jpg
 onderwerp: human
 auteur: Monique Siemsen
+id: px39wPjIwDR_X9MMzd9ir
 tags:
   - hersenactiviteit
   - neuronen
@@ -14,7 +15,6 @@ tags:
   - doneren
   - onderzoek
 ---
-
 **We leren op jonge leeftijd: 1+1 = 2. Maar nu blijkt dat die uitkomst ook makkelijk 3 of 4 kan zijn. Tenminste, in de neuro-psychologie. Dát is namelijk de werking van het collectieve brein.**
 
 Onder het collectieve brein verstaan we verschillende zaken. Bedoeld kan worden, de collectieve kennis die we allemaal hebben omdat ons dat collectief geleerd is. Denk daarbij inderdaad aan basiskennis zoals de genoemde rekensom en grammaticale regels. Afgezien van collectieve kennis, hebben groepen mensen ook collectieve normen en waarden, waarmee zij zich identificeren. Je denkt dan aan begrippen die een cultuur vormen, bijvoorbeeld de Nederlandse identiteit. Dat valt ook onder het collectieve brein. Bovendien hebben onze breinen een anatomische gemeenschappelijkheid, die we delen. Zo hebben we allemaal een amygdala die alarm slaat in noodsituaties. Dat is een collectief gegeven.
@@ -24,7 +24,7 @@ Collectief brein als onzichtbare X-factor**
 
 Er is echter nóg een definitie van het collectieve brein. Gedachten of handelingen die tot stand komen als de menselijke breinen zich met elkaar verbinden en die niet zouden bestaan, als die verbinding niet plaatsvindt. Dan gebeurt er namelijk iets extra’s. En daar is vandaag de dag dan ook wetenschappelijke erkenning voor. Neurologische onderzoekers wezen in een wetenschappelijke publicatie in Frontiers in Systems Neuroscience, erop dat zaken als geheugen, besluitvorming en gedrag niet binnen het individuele brein plaatsvinden, maar tussen de menselijke breinen onderling.
 
-![De neurale activiteit van individuen verloopt synchroon en het collectieve brein is geboren.](/img/hersencellen-cb.jpg "Pixabay.com")
+![De neurale activiteit van individuen verloopt synchroon en het collectieve brein is geboren.](https://res.cloudinary.com/ddio9vlzi/image/upload/v1680936061/sciencegeek/posts/hersencellen-cb.jpg "Pixabay.com")
 
 En een Nederlandse professor in de psychologie heeft dit onlangs onweerlegbaar bewezen. Carsten de Dreu is verbonden aan de Universiteit van Amsterdam en in Leiden. Hij specialiseert zich besluitvorming op sociaal, economisch en politiek niveau. Hij heeft een onderzoek afgerond waarin eindelijk, op anatomisch neurologisch niveau, de werking van het collectieve brein is vast gesteld. “Uit de volksmond weten we dat dit besef er al langer is, natuurlijk. We zeggen dat je een klik hebt, of dat 2 meer weten dan 1. Een bekende is ook dat je met elkaar op één golflengte zit. Er is een mystieke factor, een toegevoegde waarde in groepswerking. Daar wordt vooral de laatste 10 jaar ook onderzoek naar gedaan. In een experiment hebben we kunnen bewijzen wat er precies gebeurt in ons eigen brein én dat van de anderen, als mensen de koppen bij elkaar steken.”
 
@@ -67,12 +67,12 @@ Volgens De Dreu verklaart dit waarom individuen op kunnen in een groep en het ei
 
 Ook lieten de breinen van deelnemers andere interessante gevolgen zien van groepswerking. Op intern conflict binnen het team zelf, reageerden de breinen van de gebonden teams anders dan de breinen van de niet-gebonden teams. Conflicten tussen teamleden van de “sterkere” groepen ging gepaard met een verlaagde activiteit in de rDLPFC, het gedeelte dat controle en strategie uitoefent. Leden namen ook in interne conflictsituaties meer risico dan leden van niet-gebonden teams. De activiteit in dit gedeelte nam echter weer toe als de teamleden een nederlaag leden. Dat betekent dat als de groep, waartoe het individu behoort, een verlies te verstouwen kreeg, het individuele brein weer meer aan de slag gaat met de individuele controle en strategie. De opoffering van de identiteit aan de groep, wordt bij verlies minder.
 
-![Het collectieve brein van de groep kan er ook voor zorgen dat individuen de eigen normen laten varen en zichzelf verliezen.](https://res.cloudinary.com/ddio9vlzi/image/upload/v1680936063/sciencegeek/posts/antasie-verweesd-cb.jpg "Pixabay.com")
+![Het collectieve brein van de groep kan er ook voor zorgen dat individuen de eigen normen laten varen en zichzelf verliezen.](https://res.cloudinary.com/ddio9vlzi/image/upload/v1680936060/sciencegeek/posts/fantasie-verweesd-cb.jpg "Pixabay.com")
 
 Over de werking van het massale collectieve brein zoals in zeer grote groepen, is neuraal nog veel te ontdekken. Daarvoor is de huidige meetapparatuur niet geschikt. De Dreu meent dat dezelfde processen in het brein ten grondslag liggen in de werking. “Ieder individu doet in een bepaalde mate afstand van de eigen identiteit. Hoeveel afstand, dat ligt ook aan het individu en aan omstandigheden, die op hun beurt weer gecreëerd kunnen worden met kleding, een gemeenschappelijke visie etc. Waartoe het individu bereid is, ligt ook aan zijn afhankelijkheid van de groep. Als je graag bij de groep wilt horen, zal je brein zich daarop richten.
 
 Ben je juist bereid buiten de groep te vallen, dan zal je brein makkelijker zelfstandiger blijven functioneren. Het is dan heel goed mogelijk dat je je juist afzet tegen de groep. Hoe groter de groep, des te minder uniform deze is, Het wordt dan moeilijker afstemming tussen de individuele breinen onderling. Het gevolg kan zijn, dat dit té moeilijk wordt of te veel vergt van de aanpassing. Op dat moment gaat het individuele brein liever en makkelijker weer zijn eigen weg.”
 
-_Gepubliceerd op 3 juli 2022_
+*Gepubliceerd op 3 juli 2022*
 
-_Bron: Carsten de Dreu, publicatie research "Within-group synchronization in the prefrontal cortex associates with intergroup conflict." (Nature Neuroscience)_
+*Bron: Carsten de Dreu, publicatie research "Within-group synchronization in the prefrontal cortex associates with intergroup conflict." (Nature Neuroscience)*

@@ -1,5 +1,5 @@
 ---
 onderschrift: Zombi Vrouw Eng
 bron: Pixabay.com Darksouls1
-image: /img/zombi-vrouw-eng.jpg
+image: https://res.cloudinary.com/ddio9vlzi/image/upload/v1680934602/sciencegeek/posts/zombi-vrouw-eng.jpg
 ---

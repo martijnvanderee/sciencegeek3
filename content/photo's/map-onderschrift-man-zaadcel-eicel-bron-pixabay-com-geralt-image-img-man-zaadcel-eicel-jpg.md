@@ -1,5 +1,5 @@
 ---
 onderschrift: Man Zaadcel Eicel
 bron: Pixabay.com Geralt
-image: /img/man-zaadcel-eicel.jpg
+image: https://res.cloudinary.com/ddio9vlzi/image/upload/v1680936062/sciencegeek/posts/man-zaadcel-eicel.jpg
 ---

@@ -1,5 +1,5 @@
 ---
 onderschrift: Maan Zee Maanlicht
 bron: Pixabay.com Photo-Graphe
-image: /img/maan-zee-maanlicht.jpg
+image: https://res.cloudinary.com/ddio9vlzi/image/upload/v1680936062/sciencegeek/posts/maan-zee-maanlicht.jpg
 ---

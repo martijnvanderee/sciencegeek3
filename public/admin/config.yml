@@ -47,10 +47,10 @@ collections:
         label: HeaderPhoto
         widget: relation
         collection: photo's
-        searchFields: [image,onderschrift]
+        search_fields: [image,onderschrift]
         required: true
         display_fields: [onderschrift]
-        valueField: "bron"
+        value_field: "image"
         options_length: 3
         allow_multiple: false
       - {label: "Body", name: "body", widget: "markdown"}

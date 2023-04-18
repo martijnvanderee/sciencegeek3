@@ -1,5 +1,5 @@
 ---
 onderschrift: droom 2 oorzaken drugs
 bron: Pixabay.com
-image: /img/droom-2-oorzaken-drugs-meisje.jpg
+image: https://res.cloudinary.com/ddio9vlzi/image/upload/v1680936062/sciencegeek/posts/droom-2-oorzaken-drugs-meisje.jpg
 ---

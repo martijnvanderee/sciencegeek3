@@ -1,5 +1,5 @@
 ---
 onderschrift: Terrassen Nacht Druk
 bron: Pixabay.com Skitterphoto
-image: /img/terrassen-nacht-druk.jpg
+image: https://res.cloudinary.com/ddio9vlzi/image/upload/v1680936062/sciencegeek/posts/terrassen-nacht-druk.jpg
 ---

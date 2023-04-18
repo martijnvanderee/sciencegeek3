@@ -1,5 +1,5 @@
 ---
 onderschrift: header
 bron: Pixabay.com
-image: /img/misbruik-header.jpg
+image: https://res.cloudinary.com/ddio9vlzi/image/upload/v1680936062/sciencegeek/posts/misbruik-header.jpg
 ---
