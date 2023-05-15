@@ -1,4 +1,5 @@
 <script setup lang="ts">
+import { navRoutes } from "~/util/constants";
 const toggle = ref(false);
 </script>
 
@@ -10,26 +11,10 @@ const toggle = ref(false);
           >daisyUI</NuxtLink
         >
       </div>
-      <div class="navbar-center hidden md:block">
-        <button class="btn btn-sm btn-secondary m-1">Quirky</button>
-        <button class="btn btn-sm btn-secondary m-1">Tech</button>
-        <button class="btn btn-sm btn-secondary m-1">Nature</button>
-        <button class="btn btn-sm btn-secondary m-1">Quirky</button>
-        <button class="btn btn-sm btn-secondary m-1">Quirky</button>
-        <button class="btn btn-sm btn-secondary m-1">Quirky</button>
-        <button class="btn btn-sm btn-secondary m-1">Quirky</button>
-        <div class="dropdown dropdown-hover dropdown-end">
-          <label tabindex="0" class="btn btn-sm btn-secondary m-1"
-            >Dropdown</label
-          >
-          <ul
-            tabindex="0"
-            class="menu dropdown-content p-2 shadow bg-base-100 rounded-box w-full mt-4"
-          >
-            <li><a>Item 1</a></li>
-            <li><a>Item 2</a></li>
-          </ul>
-        </div>
+      <div class="navbar-center hidden md:block" v-for="navRoute in navRoutes">
+        <NuxtLink class="btn btn-sm btn-secondary m-1" :to="navRoute.path">
+          {{ navRoute.name }}</NuxtLink
+        >
       </div>
       <div class="navbar-end">
         <div class="dropdown flex mr-2">
@@ -103,3 +88,17 @@ const toggle = ref(false);
     </div>
   </div>
 </template>
+
+<!-- dropdown  -->
+<!-- <div class="dropdown dropdown-hover dropdown-end">
+          <label tabindex="0" class="btn btn-sm btn-secondary m-1"
+            >Dropdown</label
+          >
+          <ul
+            tabindex="0"
+            class="menu dropdown-content p-2 shadow bg-base-100 rounded-box w-full mt-4"
+          >
+            <li><a>Item 1</a></li>
+            <li><a>Item 2</a></li>
+          </ul>
+        </div> -->

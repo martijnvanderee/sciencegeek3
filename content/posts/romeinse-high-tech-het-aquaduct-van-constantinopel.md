@@ -3,7 +3,7 @@ templateKey: post.template
 title: Aquaduct van Constantinopel
 Subtitle: Romeinse high-tech in de klassieke oudheid!
 date: 2021-06-11T11:18:42.468Z
-headerPhoto: map-onderschrift-turkije-aquaduct-byzanthium-image-img-turkije-aquaduct-byzanthium-jpg
+headerPhoto: https://res.cloudinary.com/ddio9vlzi/image/upload/v1680936072/sciencegeek/posts/turkije-aquaduct-byzanthium.jpg
 onderwerp: history
 auteur: Monique Siemsen
 tags:
@@ -12,17 +12,18 @@ tags:
   - aquaduct
   - constantijn
 photo's:
-  - map-onderschrift-spanje-aquaduct-romeinen-image-img-spanje-aquaduct-romeinen-jpg
+  - https://res.cloudinary.com/ddio9vlzi/image/upload/v1680936070/sciencegeek/posts/spanje-aquaduct-romeinen.jpg
 ---
+
 **Het aquaduct van Constantinopel was het langste aquaduct in het toenmalige Rome en was maar liefst 428 kilometer lang. Nog steeds doet het wetenschappers paf staan.**
 
 Het waren misschien geen intellectuelen zoals de Grieken. Of liefhebbers van de schone kunst zoals de Chinezen. Maar bouwen, dát konden de oude Romeinen als de beste. Geen oude beschaving heeft ons zoveel architectuur en technologische hoogstandjes nagelaten als de Romeinen. Velen daarvan dwingen duizenden jaren later nog steeds respect af van toeschouwers en wetenschappers.
 
 **Met 428 km het langste aquaduct van de oudheid**
 
-In 324 na Christus besloot keizer Constantijn in al zijn bescheidenheid Constantinopel de nieuwe hoofdstad te maken. De stad heet tegenwoordig Istanbul en ligt aan de Bosporus in Turkije. De keizer voorzag een grote bevolkingsgroei en bovendien moest de stad natuurlijk wel een beetje tonen. Moeite (van vooral slaven) noch kosten (van vooral burgers) werden gespaard om onder andere een prachtig aquaduct aan te leggen, want vers water is van levensbelang. 
+In 324 na Christus besloot keizer Constantijn in al zijn bescheidenheid Constantinopel de nieuwe hoofdstad te maken. De stad heet tegenwoordig Istanbul en ligt aan de Bosporus in Turkije. De keizer voorzag een grote bevolkingsgroei en bovendien moest de stad natuurlijk wel een beetje tonen. Moeite (van vooral slaven) noch kosten (van vooral burgers) werden gespaard om onder andere een prachtig aquaduct aan te leggen, want vers water is van levensbelang.
 
-De aquaducten die in de Romeinse tijd zijn aangelegd, hadden meestal meer capaciteit dan huidige moderne aquaducten en konden gigantische hoeveelheden water verplaatsen. Het water moest worden aangevoerd uit bronnen die 60 kilometer verderop uit de stad lagen, maar dat was geen probleem voor de Romeinse techneuten. 
+De aquaducten die in de Romeinse tijd zijn aangelegd, hadden meestal meer capaciteit dan huidige moderne aquaducten en konden gigantische hoeveelheden water verplaatsen. Het water moest worden aangevoerd uit bronnen die 60 kilometer verderop uit de stad lagen, maar dat was geen probleem voor de Romeinse techneuten.
 
 **Aquaduct Constantinopel had 90 bruggen en kilometerslange tunnels**
 
@@ -34,6 +35,6 @@ Modern Duits onderzoek heeft aangetoond dat de Romeinen niets aan het toeval ove
 
 Daarop vonden de Romeinen wel iets. Ze bouwden gewoon een tweede aquaduct, boven op het eerste. Dit stuk is geen honderden kilometers lang, maar dat hoefde ook niet. Het ging puur om het gedeelte dat het meest en snelst vervuild raakte. Een dubbele watervoorziening van ruim 50 kilometer bovenop de bestaande, leek de Romeinen wel genoeg en in de praktijk kregen ze gelijk: tot in de 12e eeuw gebruikte de bevolking van de inmiddels Byzantijnse stad de watervoorziening dagelijks. Daarna pas raakte het aquaduct in verval, mogelijk ook omdat het onderhoud een technische kennis vergde, die inmiddels verloren was gegaan.
 
-*Gepubliceerd op 27.5.2021*
+_Gepubliceerd op 27.5.2021_
 
-*Bron: Carbonates from the ancient world’s longest aquaduct: a testament of Byantine water management door Johannes Gutenberg Universitaet Mainz, Duitsland*.
+_Bron: Carbonates from the ancient world’s longest aquaduct: a testament of Byantine water management door Johannes Gutenberg Universitaet Mainz, Duitsland_.

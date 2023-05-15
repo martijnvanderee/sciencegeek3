@@ -6,6 +6,8 @@ import { navRoutes } from "../util/constants";
 const route = useRoute();
 
 const path = route.path;
+
+console.log("path", path);
 const currentRoute = navRoutes.find((route) => route.path === path);
 </script>
 

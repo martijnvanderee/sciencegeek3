@@ -2,7 +2,7 @@
 templateKey: post.template
 title: Zelfs rijke Maya's leden honger
 date: 2021-06-11T11:34:17.306Z
-headerPhoto: map-onderschrift-mayamaskers-beschildering-felle-kleuren-image-img-mayamaskers-beschildering-felle-kleuren-jpeg
+headerPhoto: https://res.cloudinary.com/ddio9vlzi/image/upload/v1680936064/sciencegeek/posts/mayamaskers-beschildering-felle-kleuren.jpg
 onderwerp: history
 auteur: Monique Siemsen
 tags:
@@ -11,15 +11,16 @@ tags:
 photo's:
   - map-onderschrift-muurreliëf-el-palmar-ruïne-image-img-muurrelief-el-palmar-ruïne-jpeg
 ---
+
 **Ontberingen lijden terwijl je een goede functie bekleedt. Een recente vondst in Mexico bewijst dat dit bij de Maya’s niet ongebruikelijk was.**
 
 We kunnen ons niets voorstellen bij een Mark Rutte die bij een voedselbank moet aankloppen of een Merkel die met pijn loopt omdat ze geen medische zorg kan betalen. Toch was dit bij de Maya’s niet ongewoon.
 
 **Arme rijke Maya’s**
 
-In Mexico, vlakbij de grenzen met Belize en Quatamala, is onlangs het graf ontdekt van de diplomaat Ajpach’ Waal. Ajpach werd zo’n 1300 jaar geleden, rond 800 na Christus, begraven in de toenmalige grote stad El Palmar. Ajpach was belangrijk, anders had hij überhaupt niet zo’n voornaam graf. Bij het graf hoorde namelijk ook een offertafel en inscripties die vertellen over zijn politieke verrichtingen. En die zijn niet gering. Zo had hij de rol van vredestichter en ambassadeur tussen twee rivaliserende maya-koninkrijken, namelijk die van Copán en Calakmul. 
+In Mexico, vlakbij de grenzen met Belize en Quatamala, is onlangs het graf ontdekt van de diplomaat Ajpach’ Waal. Ajpach werd zo’n 1300 jaar geleden, rond 800 na Christus, begraven in de toenmalige grote stad El Palmar. Ajpach was belangrijk, anders had hij überhaupt niet zo’n voornaam graf. Bij het graf hoorde namelijk ook een offertafel en inscripties die vertellen over zijn politieke verrichtingen. En die zijn niet gering. Zo had hij de rol van vredestichter en ambassadeur tussen twee rivaliserende maya-koninkrijken, namelijk die van Copán en Calakmul.
 
-Ook uit andere zaken bleek Ajpach tot de maatschappelijke elite te behoren. Zo ontbraken de meeste van zijn voortanden. En dat hoorde ook zo. Hoe belangrijker je was, hoe meer tanden je mocht missen, want het was de bedoeling dat je implantaten van jade en pitriet daarvoor in de plaats kreeg. 
+Ook uit andere zaken bleek Ajpach tot de maatschappelijke elite te behoren. Zo ontbraken de meeste van zijn voortanden. En dat hoorde ook zo. Hoe belangrijker je was, hoe meer tanden je mocht missen, want het was de bedoeling dat je implantaten van jade en pitriet daarvoor in de plaats kreeg.
 
 **Gebitsimplantaten van jade voor Maya kakkers**
 
@@ -37,6 +38,6 @@ Volgens de antropologen van de Universiteit California Riverside was dit niet on
 
 De economische en politieke instabiliteit waaronder Ajpach leefde, bracht niet alleen leed voor hem persoonlijk. El Palmar, de stad waar de diplomaat woonde, viel al snel in verval en de Maya’s trokken er weg. Niet lang nadat Ajpach er stierf, stierf ook de hele stad uit en werd deze overwoekerd door de jungle.
 
-*Gepuliceerd op 19.03.2021*
+_Gepuliceerd op 19.03.2021_
 
-*Bron: paper University of California- Riverside: The Life Course of a Standard-Bearer: A Non-royal Elite Burial at he Maya Archaeological Site of El Palmar door Jessica I. Cerezo-Román, Kenichiro Tsukamoto.*
+_Bron: paper University of California- Riverside: The Life Course of a Standard-Bearer: A Non-royal Elite Burial at he Maya Archaeological Site of El Palmar door Jessica I. Cerezo-Román, Kenichiro Tsukamoto._

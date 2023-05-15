@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { Post } from "../types";
+// import { Post } from "../types";
 
 interface Post {
   title: string;

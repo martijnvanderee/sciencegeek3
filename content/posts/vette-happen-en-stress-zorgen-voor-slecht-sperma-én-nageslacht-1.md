@@ -2,7 +2,7 @@
 templateKey: post.template
 title: Vet en stress zorgen voor slecht sperma én nageslacht
 date: 2021-06-17T15:36:05.713Z
-headerPhoto: map-onderschrift-man-zaadcel-eicel-bron-pixabay-com-geralt-image-img-man-zaadcel-eicel-jpg
+headerPhoto: https://res.cloudinary.com/ddio9vlzi/image/upload/v1680936063/sciencegeek/posts/man-zaadcel-eicel.jpg
 onderwerp: human
 auteur: Monique Siemsen
 tags:
@@ -10,8 +10,8 @@ tags:
     levensstijl.
 photo's: []
 ---
-**Slecht nieuws voor luie kerels die papa willen worden en een vrouw hebben, die dit leest. Na dit artikel, slaat ze de chips uit je fikken en jaagt zij je van de bank af en in je joggingbroek!**
 
+**Slecht nieuws voor luie kerels die papa willen worden en een vrouw hebben, die dit leest. Na dit artikel, slaat ze de chips uit je fikken en jaagt zij je van de bank af en in je joggingbroek!**
 
 Dat ziekten en aandoeningen genetisch van aard kunnen zijn en doorgegeven op de
 volgende generatie is bekend. Maar ook zonder DNA komt het sperma van vader een heel
@@ -33,9 +33,9 @@ zijn sperma.
 Epigenomen zijn moleculen in het sperma, die net als DNA informatie opslaan. In het
 geval van epigenomen gaat het dus niet om genetische data, maar die van de omgeving
 en wel de omgeving van het epigenoom en zijn baasje. Dat is in het geval van luie,
-vretende, stressende piemeleigenaren nauwelijks goed nieuws. 
+vretende, stressende piemeleigenaren nauwelijks goed nieuws.
 
-![De epigenomen van mannen met een gezonde levensstijl geven deze info door tijdens de bevruchting en zorgen zo voor gezond nageslacht.](/img/vader-baby-slaap.jpg "Foto: Pixabay.com")
+![De epigenomen van mannen met een gezonde levensstijl geven deze info door tijdens de bevruchting en zorgen zo voor gezond nageslacht.](https://res.cloudinary.com/ddio9vlzi/image/upload/v1680936072/sciencegeek/posts/vader-baby-slaap.jpg "Foto: Pixabay.com")
 
 Bij een
 bevruchting van de eicel geeft het epigenoom al zijn informatie over het dieet en
@@ -59,6 +59,6 @@ In de tussentijd is het voor vrouwen in ieder geval weer een flinke reminder waa
 ook al weer op sportieve en optimistische mannen vallen. Zo krijgen mensen blijkbaar
 gezondere kids!
 
-*Gepubliceerd op 15.04.2021*
+_Gepubliceerd op 15.04.2021_
 
-*Bron: onderzoek Non-DNA mechanism is involved in transmitting paternal experience to offspring, McGill University, Montreal, Canada*
+_Bron: onderzoek Non-DNA mechanism is involved in transmitting paternal experience to offspring, McGill University, Montreal, Canada_
