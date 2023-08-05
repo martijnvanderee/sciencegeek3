@@ -7,7 +7,7 @@ onderwerp: nature
 auteur: Monique Siemsen
 tags:
   - sabeltandtijger, leeuw, reuze sabeltandtijger, onderzoek
-photo's:
+photos:
   - map-onderschrift-mannetjesleeuw-landschap-leeuwenmanen-image-img-mannetjesleeuw-landschap-leeuwenmanen-jpg
 ---
 **Er was eens, in een land niet zo heel ver hier vandaan, een bijzondere sabeltandtijger. Het dier was gigantisch vergeleken met Smilodon en verschalkte prooien van duizenden kilo’s. Maak kennis met de Machairodus.**

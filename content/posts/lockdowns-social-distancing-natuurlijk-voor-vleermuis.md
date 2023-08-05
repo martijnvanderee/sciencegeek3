@@ -2,13 +2,14 @@
 templateKey: post.template
 title: Lockdowns & social distancing natuurlijk voor vleermuis
 date: 2022-02-15T17:35:35.288Z
-headerPhoto: map-image-img-vleermuis-hangend-schattig-webp-bron-pixabay-com-onderschrift-voor-een-vleermuis-zijn-lockdowns-en-social-distancing-heel-natuurlijk
+headerPhoto: https://res.cloudinary.com/ddio9vlzi/image/upload/v1680936072/sciencegeek/posts/vleermuis-hangend-schattig.webp
 onderwerp: nature
 auteur: Monique Siemsen
 tags:
   - vleermuizen, corona-crisis, covid-19, lockdowns, social distancing,
     infectieziekten, infectie, wetenschap, onderzoek, gedragswetenschappen
 ---
+
 **Ook vleermuizen doen aan social distancing en lockdowns. Daarmee voorkomen zij dat zij een infectieziekte verspreiden zowel binnen als buiten hun kolonie.**
 
 Toen Covid-19 begin 2020 aan een opmars door Europa begon, sloeg de paniek toe. Massaal gingen we in onze ogen verdachte personen uit de weg. Zeker mensen met een Aziatische afkomst, werden angstvallig en halsstarrig vermeden. Den Haag moest Nederlanders op het matje roepen en hen eraan herinneren om groepen mensen niet onnodig te kwetsen met vermijdend gedrag en buiten sluiten. Een maand later hoorden we Den Haag niet meer over discriminatie. “Mijd elkaar als de pest!” werd het devies van het voorjaar 2020 en wie zich er niet aan hield, kon sociale hoon, agressie en juridische vervolging tegemoet zien.
@@ -17,7 +18,7 @@ Toen Covid-19 begin 2020 aan een opmars door Europa begon, sloeg de paniek toe. 
 
 Over de validiteit van de maatregelen is sindsdien veel discussie ontstaan. Interessant is daarom dat dieren dezelfde maatregelen nemen als mensen, wanneer verspreiding van een infectie-ziekte dreigt. Onderzoekers hebben gekeken naar het sociale gedrag van zieke vleermuizen. Het blijkt dat de beestjes een sticker zouden krijgen van onze autoriteiten. Vleermuizen houden namelijk netjes afstand van de andere vleermuizen en verlaten ook hun grot niet. Met andere woorden: ze gooien zichzelf in een lockdown, blijven lekker thuis en doen aan social distancing.
 
-![Vleermuizen hebben geen overheid nodig om aan social distancing te doen.](/img/vleermuizen-zonsondergang-boom.png "Pixabay.com")
+![Vleermuizen hebben geen overheid nodig om aan social distancing te doen.](https://res.cloudinary.com/ddio9vlzi/image/upload/v1680936072/sciencegeek/posts/vleermuizen-zonsondergang-boom.jpg "Pixabay.com")
 
 Wetenschappers van de universiteit in Tel Aviv waren nieuwsgierig hoe groot de kans is dat een mens een virus kan oplopen van een geïnfecteerde vleermuis. Zeer gering, zo blijkt. Een mens zou de habitat van de vleermuis fysiek moeten binnen treden en zich vervolgens moeten opdringen aan de zieke vleermuis, want een on-fitte vleermuis zelf zal ieder contact vermijden.
 
@@ -33,6 +34,6 @@ Volgens de onderzoekers is dit gedrag van de zieke vleermuizen veelzeggend. Zij 
 
 De wetenschappers menen dan ook dat zolang mensen niet de habitat van vleermuizen binnendringen, we niet bang hoeven te zijn voor een overdraagbaar virus via de vleermuis. Of deze kennis ook op de wet-markets en bij de civetkat leeft, vertelt het onderzoek er niet bij.
 
-*Gepubliceerd op 15 juni 2021*
+_Gepubliceerd op 15 juni 2021_
 
-*Bron: Sick bats stay home alone: fruit bats practice social distancing when faced with an immunological challenge, door Tel-Aviv University in Israël.*
+_Bron: Sick bats stay home alone: fruit bats practice social distancing when faced with an immunological challenge, door Tel-Aviv University in Israël._

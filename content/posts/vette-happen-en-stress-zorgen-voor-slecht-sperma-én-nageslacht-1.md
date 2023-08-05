@@ -8,7 +8,7 @@ auteur: Monique Siemsen
 tags:
   - mannen, bevruchting, sperma, nageslacht. epigenomen, vrouwen, stress,
     levensstijl.
-photo's: []
+photos: []
 ---
 
 **Slecht nieuws voor luie kerels die papa willen worden en een vrouw hebben, die dit leest. Na dit artikel, slaat ze de chips uit je fikken en jaagt zij je van de bank af en in je joggingbroek!**

@@ -2,7 +2,7 @@
 templateKey: post.template
 title: Pest bracht ons dood en verderf, maar ook sterke genen
 date: 2021-06-11T10:02:40.768Z
-headerPhoto: map-onderschrift-pestmeester-tekening-pestmasker-image-img-pestmeester-tekening-pestmasker-png
+headerPhoto: https://res.cloudinary.com/ddio9vlzi/image/upload/v1680936068/sciencegeek/posts/pestmeester-tekening-pestmasker.png
 onderwerp: history
 auteur: Monique Siemsen
 tags:
@@ -12,9 +12,10 @@ tags:
   - genetisch immuunsysteem
   - pest
   - zwarte dood
-photo's:
-  - map-image-img-skelet-schedel-dood-jpg-onderschrift-skelet-schedel-dood
+photos:
+  - https://res.cloudinary.com/ddio9vlzi/image/upload/v1680936070/sciencegeek/posts/skelet-schedel-dood.jpg
 ---
+
 **Eindelijk iets goed te melden over de gevolgen van de zwarte dood. Onze immuunsystemen zouden er een flinke boost van hebben gekregen.**
 
 De pest teisterde Europa en Azië duizenden jaren lang en decimeerde de bevolking volledig. De angst was groot en de artsen die zich met de behandeling van pest-patiënten bezig hielden, werden beschouwd als ware helden. Of gekken. Toch schijnt die pest de mensheid ook iets te hebben opgeleverd en niet zo zuinig ook.
@@ -39,10 +40,10 @@ Vraag blijft wel waarom deze verbeteringen in het immuunsysteem zich niet eerder
 
 **Hoe verkrijgen we genetische immuniteit in een pandemie?**
 
-De wetenschappers hopen, dat de ontdekking in Duitsland leidt tot inzichten hoe mensen tijdens pandemieën immuun kunnen worden en blijven. Immers, het veranderde DNA van de moderne mens in Ellwangen, beschermt hen ook vandaag de dag nog tegen de builenpest. 
+De wetenschappers hopen, dat de ontdekking in Duitsland leidt tot inzichten hoe mensen tijdens pandemieën immuun kunnen worden en blijven. Immers, het veranderde DNA van de moderne mens in Ellwangen, beschermt hen ook vandaag de dag nog tegen de builenpest.
 
 Verder worden de onderzoekers optimistisch van het feit, dat hoe dodelijk een pandemie ook is, er blijkbaar toch altijd mensen zijn die de ziekte overleven. Super enthousiast en zeker van hun zaak zijn zij echter ook weer niet, want zij ontraden mensen wél hun immuniteit genetisch te veranderen door zich bloot te stellen aan Covid-19. In de huidige pandemie, is het volgens hen toch echt beter het zekere voor het onzekere te nemen en een prikje te gaan halen.
 
-*Gepubliceerd op 26.5.2021*
+_Gepubliceerd op 26.5.2021_
 
-*Bron: Analysis of genomic DNA from medieval plague victims suggests long-term effect of Yersina pestis on human immunity genes door de Universiteit Colorado Anschutz Medical Campus, Verenigde Staten in samenwerking met Max Planck Instituut in Duitsland.*
+_Bron: Analysis of genomic DNA from medieval plague victims suggests long-term effect of Yersina pestis on human immunity genes door de Universiteit Colorado Anschutz Medical Campus, Verenigde Staten in samenwerking met Max Planck Instituut in Duitsland._

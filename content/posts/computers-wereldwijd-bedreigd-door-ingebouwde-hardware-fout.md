@@ -8,7 +8,7 @@ auteur: Monique Siemsen
 id: FBBmMNCKHRJ6CZTZU2KBM
 tags:
   - computer, hacken, processor, inbouwfout, Spectre
-photo's: []
+photos: []
 ---
 **De mensheid is vandaag de dag zeer afhankelijk van de computer. Gevaarlijk, want onderzoekers vonden een nieuwe kwetsbaarheid, die computers over de hele wereld makkelijk lam legt.**
 

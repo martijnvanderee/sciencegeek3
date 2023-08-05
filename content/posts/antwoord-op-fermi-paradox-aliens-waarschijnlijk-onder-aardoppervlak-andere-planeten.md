@@ -15,7 +15,7 @@ tags:
   - universum
   - leven op andere planeten
   - is er buitenaards leven
-photo's:
+photos:
   - https://res.cloudinary.com/ddio9vlzi/image/upload/v1680936063/sciencegeek/posts/grot-water-blauw-image-img-grot-water-blauw.jpeg
 ---
 

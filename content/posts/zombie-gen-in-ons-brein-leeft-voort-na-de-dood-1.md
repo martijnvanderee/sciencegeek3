@@ -7,7 +7,7 @@ onderwerp: quirky
 auteur: Monique Siemsen
 tags:
   - zombi, genen, neuronen, brein, hersenen, dood
-photo's:
+photos:
   - map-bron-pixabay-com-colin00b-onderschrift-sommige-hersencellen-gaan-extra-aan-de-slag-na-de-dood-de-genen-van-die-cellen-werken-zelfs-overuren-image-img-neuronen-verbinding-hersencellen-jpg
 ---
 

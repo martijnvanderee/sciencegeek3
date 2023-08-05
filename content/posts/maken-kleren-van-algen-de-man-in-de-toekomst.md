@@ -2,7 +2,7 @@
 templateKey: post.template
 title: Maken kleren van algen de man in de toekomst?
 date: 2021-06-11T15:56:58.630Z
-headerPhoto: map-bron-pixabay-com-hugo-ob-onderschrift-algen-heuvels-groen-image-img-algen-heuvels-groen-jpg
+headerPhoto: https://res.cloudinary.com/ddio9vlzi/image/upload/v1680934602/sciencegeek/posts/algen-heuvels-groen.jpg
 onderwerp: quirky
 auteur: Monique Siemsen
 tags:
@@ -13,9 +13,10 @@ tags:
   - textiel printen
   - cellulose
   - mode
-photo's:
+photos:
   - map-bron-pixabay-com-so-fuego-onderschrift-de-algenstof-zal-ook-worden-ingezet-om-huidwonden-te-genezen-image-img-hand-bloed-wond-jpg
 ---
+
 **Het is niet bekend of grote winkelketens hun eerste bestellingen al geplaatst hebben, maar wie weet hoe snel ze in de rekken hangen: jurken en pakken gemaakt van algen. Levende algen, wel te verstaan.**
 
 We komen veel onderzoek tegen hier op de redactie en zijn best wel iets gewend. Maar zelfs bij ons gingen de wenkbrauwen omhoog bij het volgende nieuwtje. Wetenschappers hebben een stof ontwikkeld van levende algen, waarvan zij toepassingen zien in de medische sector én in de kledingindustrie.
@@ -36,7 +37,7 @@ Om de fotosynthetische materialen te maken begon men met een niet levende bacter
 
 Vervolgens werkt deze cellulose net als het papier in de printer. De levende micro-algen doen dienst als inkt. Met een 3D printer konden de wetenschappers vervolgens de algen op de cellulose “drukken”. Het resultaat is een materiaal dat tevens prima gebruikt kan worden als fotosynthetische huid in de medische sector. Immers, de zuurstof in het materiaal kan de beschadigde huid helpen te herstellen, maar het kan ook ingezet worden als licht-activerende factor. Ook hierbij is kapotte huid gebaat.
 
-Een belangrijke toepassing voor het materiaal is de inzet ervan in de strijd tegen klimaatverandering. Er worden namelijk kunstbladeren van de algenstof gemaakt, die net als echte bladeren koolstof kunnen omzetten in zuurstof. (Dat dit bepaald geen overbodige luxe is, met de rap verdwijnende en beschadigde regenwouden, kun je ***[hier](/nieuwe-milieuramp-dreigt-amazone-stoot-meer-koolstof-uit-dan-het-opneemt)*** lezen in onze publicatie over de Amazone.)
+Een belangrijke toepassing voor het materiaal is de inzet ervan in de strijd tegen klimaatverandering. Er worden namelijk kunstbladeren van de algenstof gemaakt, die net als echte bladeren koolstof kunnen omzetten in zuurstof. (Dat dit bepaald geen overbodige luxe is, met de rap verdwijnende en beschadigde regenwouden, kun je **_[hier](/nieuwe-milieuramp-dreigt-amazone-stoot-meer-koolstof-uit-dan-het-opneemt)_** lezen in onze publicatie over de Amazone.)
 
 **Even je jurk van algen “stekken” voor nieuwe stof?**
 
@@ -44,6 +45,6 @@ En dan is er dus nog de eerder genoemde toepassing in de kledingindustrie. De we
 
 Bovendien ben je als drager van een algen-jurk, je eigen luchtzuiveraar, waar je maar ook gaat. En nee, je hoeft je jurk niet dagelijks water te geven. Het materiaal kan namelijk dagen zonder water en mocht je kledingstuk toch de pijp uitgaan, dan neem je gewoon een stekje van je dress om nieuw levend materiaal te produceren. Zo blijf je fashionable én duurzaam in één klap!
 
-*Gepubliceerd op 23.5.2021*
+_Gepubliceerd op 23.5.2021_
 
-*Bron: Bioprinting of regenerative photosynthetic living materials door de TU Delft en University Rochester*
+_Bron: Bioprinting of regenerative photosynthetic living materials door de TU Delft en University Rochester_

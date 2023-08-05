@@ -2,14 +2,15 @@
 templateKey: post.template
 title: Mysterieuze bruggen ontdekt tussen de sterrenstelsels
 date: 2021-06-11T15:34:20.704Z
-headerPhoto: map-bron-pixabay-com-eli007-image-img-planeten-verbinding-lichtstraal-jpg-onderschrift-planeten-verbinding-lichtstraal
+headerPhoto: https://res.cloudinary.com/ddio9vlzi/image/upload/v1680936067/sciencegeek/posts/planeten-verbinding-lichtstraal.jpg
 onderwerp: space
 auteur: Monique Siemsen
 tags:
   - donkere materie, plattegrond heelal, ruimte, ruimtebruggen, bruggen
-photo's:
+photos:
   - map-bron-pixabay-com-geralt-onderschrift-om-meer-te-leren-van-het-skelet-van-ons-heelal-maakten-wetenschappers-een-plattegrond-van-de-donkere-materie-image-img-sterrenstelsel-nevel-ruimte-jpg
 ---
+
 **Geheimzinnige bruggen die sterrenstelsels met elkaar verbinden. Het klinkt als iets uit een sci-fi film, maar ze blijken echt te bestaan. En de wetenschap staat paf.**
 
 De bruggen zijn draadvormig en bevinden zich vooral tussen verschillende sterrenstelsels die zij met elkaar lijken te verbinden. Dat is vrijwel het enige dat de onderzoekers op dit moment nog weten. Hoe de bruggen zijn opgebouwd of tot stand zijn gekomen, is op dit moment nog een mysterie. Ook het nut van de bruggen is nog niet bekend.
@@ -26,14 +27,14 @@ Ook van donkere materie zelf is namelijk nog veel onbekend. De wetenschap zelf n
 
 Donkere materie zelf is lastig vast te stellen en kan ook niet gemeten worden. Het werd ontdekt door onlogische bewegingen en verspreiding van hemellichamen, die nergens anders uit verklaard konden worden. Astronomen concludeerden daarom al snel dat er materie moest zijn, die de baan en beweging van objecten wel móest beïnvloeden, zonder dat deze materie zelf te zien was.
 
-Inmiddels blijkt dat dus ook het geval te zijn en om meer te leren van donkere materie, besloten ze in de VS dus maar een stel knappe koppen en een geavanceerde computertechniek los te laten op het heelal, om te kijken of er in ieder geval vastgesteld kan worden, wáár de donkere materie zich dan bevindt. 
+Inmiddels blijkt dat dus ook het geval te zijn en om meer te leren van donkere materie, besloten ze in de VS dus maar een stel knappe koppen en een geavanceerde computertechniek los te laten op het heelal, om te kijken of er in ieder geval vastgesteld kan worden, wáár de donkere materie zich dan bevindt.
 
-Die vraag is met de nieuwe plattegrond dus opgelost, maar er doemde wel meteen een nieuwe vraag op: wat zijn in hemelsnaam die verbindingen tussen de sterrenstelsels? En hoe werken ze? 
+Die vraag is met de nieuwe plattegrond dus opgelost, maar er doemde wel meteen een nieuwe vraag op: wat zijn in hemelsnaam die verbindingen tussen de sterrenstelsels? En hoe werken ze?
 
 **Verborgen snelwegen door het universum?**
 
 Terwijl de meest verbeeldingskrachtigen al fantaseren over bruggen die daadwerkelijk ook dienst kunnen doen als een soort logistiek middel van tijd of afstand tussen de sterren, houdt de conventionele wetenschap voorlopig nog even de mening voor zich. Wel kunnen de Koreanen en Amerikanen mededelen dat er dringend meer onderzoek nodig is naar de bruggen en hebben zij hun plattegrond, met bruggen en al, gepubliceerd.
 
-*Gepubliceerd op 1.6.2021*
+_Gepubliceerd op 1.6.2021_
 
-*Bron: Revealing the local cosmic web from galaxies by deep learning door onder meer Penn State University, Verenigde Staten, Korean Ministry of Science, Korea Institure for Advanced Study en US National Space Foundation*
+_Bron: Revealing the local cosmic web from galaxies by deep learning door onder meer Penn State University, Verenigde Staten, Korean Ministry of Science, Korea Institure for Advanced Study en US National Space Foundation_

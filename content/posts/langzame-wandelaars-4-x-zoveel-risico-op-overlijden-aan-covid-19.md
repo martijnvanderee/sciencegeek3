@@ -2,7 +2,7 @@
 templateKey: post.template
 title: Langzame wandelaars 4 x zoveel risico op overlijden aan Covid-19
 date: 2021-06-11T15:40:03.903Z
-headerPhoto: map-onderschrift-bloedvaten-hart-bloedcellen-bron-pixabay-com-image-img-bloedvaten-hart-bloedcellen-jpg
+headerPhoto: https://res.cloudinary.com/ddio9vlzi/image/upload/v1680936057/sciencegeek/posts/bloedvaten-hart-bloedcellen.jpg
 onderwerp: human
 auteur: Monique Siemsen
 tags:
@@ -15,9 +15,10 @@ tags:
   - looptempo
   - hart-en bloedvaten
   - wandelen
-photo's:
-  - map-onderschrift-mensen-met-een-langzame-tred-hebben-ongezondere-hart-en-bloedvaten-ze-lopen-meer-risico-op-ernstige-symptomen-van-covid-19-bron-pixabay-com-image-img-wandeling-park-herfst-jpg
+photos:
+  - https://res.cloudinary.com/ddio9vlzi/image/upload/v1680936073/sciencegeek/posts/wandeling-park-herfst.jpg
 ---
+
 **De Nederlandse taal staat bol van de uitdrukkingen die onze ontspannen levenshouding vieren. Maar als je gezond de pandemie wilt doorkomen, is het goed te begrijpen dat haastige spoed wel degelijk bijzonder goed is.**
 
 **Biobanken schat aan data over Covid-19 vatbaarheid**
@@ -40,6 +41,6 @@ De oorzaak van de verminderde risico’s voor snelle lopers wordt gezocht in de 
 
 Het onderzoek is niet alleen belangrijk voor de individuele mens die natuurlijk graag gezond wil blijven tijdens de crisis, maar dient ook een groter maatschappelijk belang. De wetenschappers benadrukken dat het virus nog steeds zwaar drukt op de zorgfaciliteiten in landen over de hele wereld en dat voorkomen daarom veel beter is dan genezen. Ze hopen dat overheden meer gaan doen om de algemene fitheid en gezondheid te bevorderen.
 
-*Gepubliceerd 18.03.2021*
+_Gepubliceerd 18.03.2021_
 
-*Bronmateriaal: paper Universiteit Leicester Obesity, Walking Pace and Risk of Severe Covid-19 and mortality: analysis of UK Biobank door Th. Yates, C. Razieh, F. Zaccardi, A.V. Rowlands, S. Seidu, M.J. Davies, K. Khunti.*
+_Bronmateriaal: paper Universiteit Leicester Obesity, Walking Pace and Risk of Severe Covid-19 and mortality: analysis of UK Biobank door Th. Yates, C. Razieh, F. Zaccardi, A.V. Rowlands, S. Seidu, M.J. Davies, K. Khunti._

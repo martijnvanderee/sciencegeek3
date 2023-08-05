@@ -8,7 +8,7 @@ auteur: Monique Siemsen
 tags:
   - maya's, el palmar, copán, calakmul, geschiedenis, wetenschap, onderzoek,
     gebitsimplantaten, armoede, jade
-photo's:
+photos:
   - map-onderschrift-muurreliëf-el-palmar-ruïne-image-img-muurrelief-el-palmar-ruïne-jpeg
 ---
 

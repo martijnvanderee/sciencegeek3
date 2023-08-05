@@ -2,24 +2,25 @@
 templateKey: post.template
 title: Plastic afval binnen een uur gerecycled tot jet-brandstof
 date: 2021-06-11T15:13:31.197Z
-headerPhoto: map-onderschrift-vliegtuig-zonsondergang-oranje-bron-pixabay-com-the-pixelman-image-img-vliegtuig-zonsondergang-oranje-jpg
+headerPhoto: https://res.cloudinary.com/ddio9vlzi/image/upload/v1680936072/sciencegeek/posts/vliegtuig-zonsondergang-oranje.jpg
 onderwerp: tech
 auteur: Monique Siemsen
 tags:
   - milieuvervuiling, brandstof, vliegtuigbrandstof, vliegtuig, ruthenium,
     plastic.
-photo's:
-  - map-bron-pixabay-com-pasja-1000-onderschrift-plastic-afval-is-een-groot-milieuprobleem-wetenschappers-kunnen-deze-flesjes-voortaan-binnen-een-uur-omtoveren-tot-brandstof-image-img-plastic-flesjes-blauw-jpg
+photos:
+  - https://res.cloudinary.com/ddio9vlzi/image/upload/v1680936067/sciencegeek/posts/plastic-flesjes-blauw.jpg
 ---
+
 **Er is een nieuwe manier bedacht om ons plastic te recyclen. Wetenschappers hebben een manier gevonden om er vliegtuigbrandstof van te maken en nog razend snel ook.**
 
-De plastic afvalberg groeit de mensheid boven de oren en het einde was tot voor kort nog niet in zicht. Micro-polymeren komen terecht in grote en kleine organismen en wat directe kunststof-vergiftiging voor mensen betekent, weten we nog niet zeker, maar goed voor onze gezondheid is het zeker niet. (Zie ook ons artikel over met plastic vergiftigde vissen ***[hier.](/kunststof-kleding-vergiftigt-vissen-al-70-jaar)***) En dan hebben we het nog niet over onze oceanen.
+De plastic afvalberg groeit de mensheid boven de oren en het einde was tot voor kort nog niet in zicht. Micro-polymeren komen terecht in grote en kleine organismen en wat directe kunststof-vergiftiging voor mensen betekent, weten we nog niet zeker, maar goed voor onze gezondheid is het zeker niet. (Zie ook ons artikel over met plastic vergiftigde vissen **_[hier.](/kunststof-kleding-vergiftigt-vissen-al-70-jaar)_**) En dan hebben we het nog niet over onze oceanen.
 
 #### **Plastic afval moeilijk en duur om te recyclen**
 
-Maar nu is er dan een toepassing gevonden voor al die miljoenen kubieke meters aan polymeren die we weggooien en niet meer kunnen gebruiken. Het spul kan worden gebruikt als brandstof voor vliegtuigen. Plastic kan natuurlijk al langer recycled worden, maar de kosten liggen hoog en het proces is intensief, waardoor er veel groene “winst” verloren gaat. Met nieuwe methodes,  zijn Amerikaanse bio-ingenieuren van de Universiteit in Washington, erin geslaagd maar liefst 90% van alle denkbare kunststoffen binnen een uur te kunnen recyclen naar overigens niet alleen brandstof, maar ook andere duurzame producten. 
+Maar nu is er dan een toepassing gevonden voor al die miljoenen kubieke meters aan polymeren die we weggooien en niet meer kunnen gebruiken. Het spul kan worden gebruikt als brandstof voor vliegtuigen. Plastic kan natuurlijk al langer recycled worden, maar de kosten liggen hoog en het proces is intensief, waardoor er veel groene “winst” verloren gaat. Met nieuwe methodes, zijn Amerikaanse bio-ingenieuren van de Universiteit in Washington, erin geslaagd maar liefst 90% van alle denkbare kunststoffen binnen een uur te kunnen recyclen naar overigens niet alleen brandstof, maar ook andere duurzame producten.
 
-En dat allemaal door middel van gematigde temperaturen. Dit is belangrijk, want dit vormde lange tijd een struikelblok in het grootschalige recyclen. De meest gebruikte manier om plastic te recyclen tot nu toe, was het spul simpelweg smelten en hervormen tot andere producten. Nadeel daarvan was, dat de omgesmolten kwaliteit veel lager was en dus veel minder geschikt voor juist duurzamere producten. 
+En dat allemaal door middel van gematigde temperaturen. Dit is belangrijk, want dit vormde lange tijd een struikelblok in het grootschalige recyclen. De meest gebruikte manier om plastic te recyclen tot nu toe, was het spul simpelweg smelten en hervormen tot andere producten. Nadeel daarvan was, dat de omgesmolten kwaliteit veel lager was en dus veel minder geschikt voor juist duurzamere producten.
 
 #### **Ruthenium en koolstof toveren plastic om tot vliegtuigbrandstof**
 
@@ -33,6 +34,6 @@ Een paar honderd graden verhitting schijnt voor plastic-smelterij niet zo veel t
 
 De recycle methode wordt momenteel opgeschaald, zodat deze binnenkort geschikt is om op grote schaal door industrieën gebruikt te worden. Wie weet, vlieg je dus al binnenkort op plastic afval naar verre oorden.
 
-*Gepubliceerd op 25.5.2021*
+_Gepubliceerd op 25.5.2021_
 
-*Bron: Deconstruction of high-density polyethylene into liquid hydrocarbon fuels and lubricants by hydrogenolysis over Ru catalyst door Washington Universiteit, Verenigde Staten.*
+_Bron: Deconstruction of high-density polyethylene into liquid hydrocarbon fuels and lubricants by hydrogenolysis over Ru catalyst door Washington Universiteit, Verenigde Staten._

@@ -2,13 +2,14 @@
 templateKey: post.template
 title: Middeleeuwse kakker en monnik verslaafd aan puntschoen
 date: 2022-02-15T17:07:10.243Z
-headerPhoto: map-image-img-puntschoen-ridder-sporen-jpg-bron-pixabay-com-onderschrift-puntschoenen-vormden-een-ware-plaag-in-de-middeleeuwen
+headerPhoto: https://res.cloudinary.com/ddio9vlzi/image/upload/v1680936068/sciencegeek/posts/puntschoen-ridder-sporen.jpg
 onderwerp: history
 auteur: Monique Siemsen
 tags:
   - hallux valgus, bunion, botvergroeiing, puntschoen, middeleeuwen, adel,
     geschiedenis, wetenschap, onderzoek
 ---
+
 **De middeleeuwers, zeker die financieel wat ruimer zaten, hadden het graag over voor hun kekke puntschoentjes: bunions en zelfs gebroken botten.**
 
 Hallux valgus is de officiële benaming voor de uitstekende knobbel aan de binnenkant van de voet, ook wel bunion genaamd. Dit komt door een afwijkende stand van de grote teen, die naar binnen wijst. Hierdoor ontstaat er een vergroeiing aan de binnenkant van de voet, ter hoogte van de aanzet van de grote teen. Die knobbel heet dus de bunion. Het ding ziet er niet uit en is nog vaak pijnlijk bovendien.
@@ -23,11 +24,11 @@ Een absolute must was de puntschoen. In de 13e en 14e begon de mode te verandere
 
 De boerenbevolking echter, deed er logischerwijs zoveel mogelijk aan om voordelig en vooral praktisch schoeisel te dragen. De boeren zagen dus verstandig genoeg af van extreme punten. De echte poulaine-die hards waren vooral hen die de benenwagen niet (voor hard werk of vervoer) hoefden te gebruiken én verrassend genoeg: de geestelijkheid.
 
-![Pijnlijke uitstekende botten aan de binnenkant van de voet, werden voor lief genomen voor de puntschoen.](/img/voeten-jicht-eeltknobbel.jpg)
+![Pijnlijke uitstekende botten aan de binnenkant van de voet, werden voor lief genomen voor de puntschoen.](https://res.cloudinary.com/ddio9vlzi/image/upload/v1680936072/sciencegeek/posts/voeten-jicht-eeltknobbel.jpg)
 
 Deze laatste groep ging graag voorop in de mode. Geruime tijd vóór het aanbreken van de 14e eeuw, zag de kerk zich al genoodzaakt al te hippe priesters en monniken de les te lezen. In 1215 verbood de kerk de puntschoen helemaal. Een naleving op het verbod kan echter nooit met heel veel ijver zijn plaatsgevonden, want er bleven maar nieuwe decreten uitgevaardigd worden over de stappers van de geestelijke stand. In 1281 kwam de kerk met nieuwe strenge verboden. En toen nog maar weer eens in 1342.
 
-**Overlast in de stad door puntschoen** 
+**Overlast in de stad door puntschoen**
 
 De paus kon roepen wat hij wilde, de mannen van God bleven koppig vasthouden aan het modieuze schoeisel. Niet alleen het kerkelijk bestuur, maar ook de gewone burger vond dat de geestelijkheid te ver ging en dreef regelmatig de spot met de ijdelheid van de vrome kerels, zoals blijkt uit de beschrijving van de monnik in de Canterbury Tales van Chaucer.
 
@@ -45,6 +46,6 @@ Het ongemak van de bunions was niets vergeleken bij de toegenomen kans op botbre
 
 De puntschoen is nooit helemaal meer uit ons modebeeld verdwenen. Maar zo extreem dat we struikelend op knobbelvoeten rond hobbelen: nee, dat doen we niet meer. Dat doen we tegenwoordig liever op stiletto’s en pumps.
 
-*Gepubliceerd op 29 juni 2021*
+_Gepubliceerd op 29 juni 2021_
 
-*Bron: Fancy shoes and painful feet: Hallus valgus and fracture risk in medieval Cambridge, England door University of Cambridge in Groot-Brittannië*
+_Bron: Fancy shoes and painful feet: Hallus valgus and fracture risk in medieval Cambridge, England door University of Cambridge in Groot-Brittannië_

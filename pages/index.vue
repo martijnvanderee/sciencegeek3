@@ -2,7 +2,7 @@
 import type { QueryBuilderParams } from "@nuxt/content/dist/runtime/types";
 
 import { useToggleStore } from "../state/useToggle";
-import { MAX_AMOUNT_POSTS_HOMEPAGE } from "../util/constants";
+import { NUMBER_OF_POSTS_HOMEPAGE } from "../util/constants";
 
 useHead({
   script: [
@@ -12,7 +12,7 @@ useHead({
 
 const query: QueryBuilderParams = {
   path: "/posts",
-  limit: 100,
+  limit: NUMBER_OF_POSTS_HOMEPAGE,
   sort: [{ title: -1 }],
 };
 

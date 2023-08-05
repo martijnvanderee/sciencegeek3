@@ -8,7 +8,7 @@ auteur: Monique Siemsen
 tags:
   - stonehenge, externsteine, zonnewende, heidenen, druiden, sterrenpriesters,
     rituelen, duitsland
-photo's:
+photos:
   - map-bron-pixabay-com-babette-1966-onderschrift-de-externsteine-werden-net-als-stonehenge-gebruikt-voor-heidense-riten-maar-anders-dan-stonehenge-kent-de-rotspartij-mysterieuze-bruggetjes-en-altaars-image-img-externsteine-loopbrug-hoog
 ---
 

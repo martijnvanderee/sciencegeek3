@@ -18,7 +18,7 @@ tags:
   - misdaad
   - misdrijf
   - plaats delict
-photo's:
+photos:
   - map-bron-pixabay-com-rebcenter_moscow-onderschrift-vingerafdrukken-laten-voortaan-zien-of-een-drugsgebruiker-nog-zijn-handen-heeft-gewassen-voordat-hij-een-misdaad-pleegde-image-img-drugsverslaafde-injectienaald-hoody-jpg
 ---
 **Voortaan hebben analisten maar één vingerafdruk nodig om te zien of de dader coke heeft genomen, heeft aangeraakt of zelfs zijn handen heeft gewassen, nadat hij de drugs aanraakte.**

@@ -8,7 +8,7 @@ auteur: Monique Siemsen
 id: SYYvDqL33EkTYjwv4itp2
 tags:
   - Artemis, maanmissie, maan, zonnevlammen, zonnestormen
-photo's:
+photos:
   - https://res.cloudinary.com/ddio9vlzi/image/upload/v1680936063/sciencegeek/posts/zon-zonnevlam-zonnestorm.jpg
 ---
 

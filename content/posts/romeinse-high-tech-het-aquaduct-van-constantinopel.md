@@ -11,7 +11,7 @@ tags:
   - constantinopel
   - aquaduct
   - constantijn
-photo's:
+photos:
   - https://res.cloudinary.com/ddio9vlzi/image/upload/v1680936070/sciencegeek/posts/spanje-aquaduct-romeinen.jpg
 ---
 

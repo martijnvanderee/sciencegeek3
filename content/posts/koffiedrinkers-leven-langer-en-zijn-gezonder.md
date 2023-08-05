@@ -3,7 +3,7 @@ templateKey: post.template
 title: Koffiedrinkers leven langer!
 Subtitle: Grootste koffie-onderzoek ooit
 date: 2023-03-18T09:57:30.237Z
-headerPhoto: map-bron-pixabay-com-onderschrift-koffie-header-image-img-koffie-header-jpg
+headerPhoto: https://res.cloudinary.com/ddio9vlzi/image/upload/v1680936062/sciencegeek/posts/koffie-header.jpg
 onderwerp: human
 auteur: Monique Siemsen
 tags:
@@ -15,13 +15,14 @@ tags:
   - hart-en vaatziekten
   - onderzoek
 ---
+
 **Zit je toevallig ook aan een bakkie? Geniet ervan! Want koffiedrinkers hebben veel minder kans op hart- en vaatziekten als niet-koffiegebruikers. Zo blijkt uit het grootste koffie-onderzoek tot nu toe.**
 
 De onderzoekers namen geen halve maatregelen. Ze maakten gebruik van een biobank in Groot-Brittannië en bekeken daar de gezondheid van maar liefst een half miljoen mensen, gedurende 12.5 jaar. (Een biobank is een verzameling biologische data van grote groepen mensen. Ook zaken als medische gegevens, geslacht, leeftijd en levensstijl worden opgenomen in de biobank. Biobanken zijn daarmee onderzoeksbronnen van onschatbare waarde).
 
 In dit geval gingen Australische wetenschappers van de Baker Heart & Diabetes Research in Melbourne, Australia aan de slag met Europese collega’s voor de ESC, te weten de European Society of Cardiology. Over koffie is er namelijk veel gezegd en gezwegen: de ene cardioloog houdt het op één kop koffie per dag, de ander is zelfs over die ene niet zeker.
 
-![Daar is-ie dan: de goede oude koffieboon: zelfs gedécafeïneerd is hij nog goed voor een overlijdenskans vermindering van 14%.](/img/koffie-bonen-kop.jpg "Pixabay.com")
+![Daar is-ie dan: de goede oude koffieboon: zelfs gedécafeïneerd is hij nog goed voor een overlijdenskans vermindering van 14%.](https://res.cloudinary.com/ddio9vlzi/image/upload/v1680936062/sciencegeek/posts/koffie-bonen-kop.jpg "Pixabay.com")
 
 Maar met de gegevens van een half miljoen mensen op zak, weet de ESC het zeker: koffie drinken verlengt je leven en vermindert de kans op cardiovasculaire aandoeningen in sommige gevallen zelfs met 27%! Welke gevallen? Laten we even kijken, wat de ESC precies heeft gevonden.
 
@@ -35,6 +36,6 @@ Dat zijn dus kans verminderingen, die de moeite waard zijn. De onderzoekers hadd
 
 De monster-studie, die testpersonen besloeg van alle genders en etniciteiten in de leeftijd van 40 tot 69 jaar, is gepubliceerd in de European Journal of Preventive Cardiology.
 
-*Gepubliceerd op 18 maart 2023*
+_Gepubliceerd op 18 maart 2023_
 
-*Bron: European Journal of Preventive Cardiology*
+_Bron: European Journal of Preventive Cardiology_

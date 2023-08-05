@@ -8,7 +8,7 @@ onderwerp: nature
 auteur: Monique Siemsen
 tags:
   - klimaatverandering, jaarringen, romeinen, opwarming europa
-photo's:
+photos:
   - map-onderschrift-boom-bladeren-groen-image-img-boom-bladeren-groen-jpg
 ---
 **Hoe lang denk je dat klimaatverandering al een probleem is? 20 jaar misschien? Of zet je in op 100 jaar? Helaas: al duizenden jaren worden onze zomers alsmaar warmer en vooral droger.** 

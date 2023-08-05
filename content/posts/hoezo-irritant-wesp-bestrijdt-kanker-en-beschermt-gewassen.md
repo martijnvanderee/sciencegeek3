@@ -8,7 +8,7 @@ onderwerp: nature
 auteur: Monique Siemsen
 tags:
   - wesp, bij, bestuiving, gewassen, insectenbestrijding
-photo's:
+photos:
   - map-bron-pixabay-com-wal_172619-onderschrift-de-wesp-is-een-superbestuiver-hij-helpt-maar-liefst-meer-dan-1000-plantensoorten-zich-voort-te-planten-image-img-wesp-bloem-paars-jpg
 ---
 

@@ -2,7 +2,7 @@
 templateKey: post.template
 title: Scythen terroriseerden Romeinen, Grieken en Chinezen
 date: 2021-06-11T11:14:39.015Z
-headerPhoto: map-onderschrift-strijder-zonsondergang-harnas-image-img-strijder-zonsondergang-harnas-jpg
+headerPhoto: https://res.cloudinary.com/ddio9vlzi/image/upload/v1680936071/sciencegeek/posts/strijder-zonsondergang-harnas.png
 onderwerp: history
 auteur: Monique Siemsen
 tags:
@@ -14,9 +14,10 @@ tags:
   - pijl en boog
   - strijders
   - ruiters
-photo's:
-  - map-onderschrift-strijder-zonsondergang-harnas-image-img-strijder-zonsondergang-harnas-png
+photos:
+  - https://res.cloudinary.com/ddio9vlzi/image/upload/v1680936071/sciencegeek/posts/strijder-zonsondergang-harnas.png
 ---
+
 **De Scythen waren een strijdlustig nomadisch ruitervolk, waarvan lange tijd werd aangenomen dat zij uit het huidige Iran kwamen. Maar dat blijkt helemaal niet zo te zijn!**
 
 De oude Grieken, Romeinen, Perzen en Chinezen hadden er de bek van vol: de Scythen. Hoewel ze bewonderd werden om hun paardrijkunst, waren de verslagen over de Scythen niet echt positief. Voor die oude Grieken, Romeinen, Perzen en Chinezen dan. Want die kregen regelmatig klop van de Scythen, die het gigantische gebied tussen de Zwarte en de Kaspische Zee bevolkten. Uit de verslagen en schrijfsels van de klassieke volken weten we al vrij veel van het volk dat onlosmakelijk was verbonden met het paard. Maar veel informatie moest ook komen van opgravingen en zelfs uit een DNA-onderzoek afgenomen van goed geconserveerde overleden Scythen.
@@ -37,8 +38,8 @@ Dát volk dus, dat blijkt helemaal niet één volk te zijn. DNA onderzoek wees u
 
 Door de eeuwen heen gingen de Scythen steeds vaker intieme relaties aan met naburige volkeren en raakten de genen steeds verder gemengd. Of hier sprake was van het ‘make love, not war’ principe, is dubieus aangezien verkrachting en vrouwenroof een gangbare vorm van oorlogsvoering was, om de tegenstander mentaal en genetisch te verzwakken. De veranderde genenpoel ging samen met de verdwijning van de Scythen als georganiseerde krijgsmacht. Langzaam maar zeker gingen de Scythen op in de lokale bevolkingen en samenlevingen.
 
-Tot op de dag van vandaag is de genenpoel van de gemiddelde Euro-Aziaat dus zeer divers. En is het dus niet ondenkbaar dat er ook een deel van ons Nederlanders, met schietgraag ruiter-DNA rond loopt. 
+Tot op de dag van vandaag is de genenpoel van de gemiddelde Euro-Aziaat dus zeer divers. En is het dus niet ondenkbaar dat er ook een deel van ons Nederlanders, met schietgraag ruiter-DNA rond loopt.
 
-*Gepubliceerd op 28.5.2021*
+_Gepubliceerd op 28.5.2021_
 
-*Bron: Ancient genomic time transect from the Central Asian Steppe unravels the history of the Scythians door Max Planck Institute in Jena, Duitsland.*
+_Bron: Ancient genomic time transect from the Central Asian Steppe unravels the history of the Scythians door Max Planck Institute in Jena, Duitsland._

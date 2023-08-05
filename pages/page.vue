@@ -1,7 +1,6 @@
 <script setup lang="ts">
 import { storeToRefs } from "pinia";
 import { useToggleStore } from "../state/useToggle";
-const list = [0, 1, 2, 3, 4, 5];
 
 const store = useToggleStore();
 const { state } = storeToRefs(store);
@@ -10,10 +9,7 @@ const { toggle } = store;
 
 <template>
   <Navbar />
-  state{{ state }}test
-
   <button class="btn btn-primary" @click="toggle">toggle</button>
-
   <div>
     <div class="content">
       <div class="max-w-5xl mx-auto px-2">

@@ -12,7 +12,7 @@ tags:
   - partnervorming
   - partnerkeuze
   - familie
-photo's: []
+photos: []
 ---
 
 **Dieren maken lang niet zo’n probleem van inteelt als biologen tientallen jaren beweerd hebben. Sterker nog: als rechtgeaard zoogdier heeft de mens zelf waarschijnlijk ook niet al te veel bezwaren tegen één van de grootste taboes die we nog steeds koesteren.**

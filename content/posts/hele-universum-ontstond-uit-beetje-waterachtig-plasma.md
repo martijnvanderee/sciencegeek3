@@ -7,7 +7,7 @@ onderwerp: space
 auteur: Monique Siemsen
 tags:
   - Big Bang, Oerknal, QGP, universum, uitdijen, hitte, protonen, hadronen
-photo's:
+photos:
   - map-bron-pixabay-com-wilkilmages-onderschrift-een-schematische-weergave-van-wat-er-in-het-universum-gebeurde-na-de-oerknal-een-theorie-waarvoor-steeds-meer-bewijs-gevonden-wordt-image-img-big-bang-verloop-sterren-jpg
 ---
 **We danken ons bestaan en het heelal aan zogenaamd Quark-Gluon Plasma. Een goedje dat zo vloeibaar was als water. En dat slechts een milliseconde bestaan heeft.**

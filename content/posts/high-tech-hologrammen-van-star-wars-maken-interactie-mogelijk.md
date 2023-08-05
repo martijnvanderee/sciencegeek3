@@ -8,7 +8,7 @@ auteur: Monique Siemsen
 tags:
   - StarWars, Star Wars, Yoda, Klingon, Enterprise, hologram, techniek,
     lichtzwaarden
-photo's:
+photos:
   - map-bron-pixabay-com-coxinhafotos-onderschrift-een-hologram-die-voor-iedereen-op-straat-te-zien-is-en-waarmee-interactie-mogelijk-is-vanaf-nu-bestaat-het-image-img-vrouw-hologram-stad-jpg
 ---
 **Star Wars-fans opgelet! Ook altijd al een potje willen mee knokken met Yoda tegen Darth Vader? Dat kan nu! Wetenschappers zijn erin geslaagd hologrammen te creëren die spelers een hele nieuwe beleving bieden.**

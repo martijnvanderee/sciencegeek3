@@ -1,4 +1,4 @@
-export const MAX_AMOUNT_POSTS_HOMEPAGE = 6;
+export const NUMBER_OF_POSTS_HOMEPAGE = 100;
 
 export const navRoutes = [
   { name: "home", path: "/" },

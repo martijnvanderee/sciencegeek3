@@ -7,7 +7,7 @@ onderwerp: human
 auteur: Monique Siemsen
 tags:
   - normen en waarden, talentenjachten, kids, onderzoek, televisie
-photo's:
+photos:
   - map-onderschrift-talentenjachten-geven-jongeren-een-egoïstische-boodschap-mee-zo-blijkt-uit-onderzoek-bron-pixabay-com-image-img-kind-schermtijd-computer-jpg
 ---
 **De laatste talentshow heet Avastars, maar hoeveel toekomst hebben talentshows op televisie nog? Uit onderzoek blijkt dat vooral jongelui behoorlijk negatief ervan worden.**

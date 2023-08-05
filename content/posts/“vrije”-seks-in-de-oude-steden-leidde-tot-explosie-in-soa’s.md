@@ -12,7 +12,7 @@ tags:
   - SOA's
   - kwik
   - syfilis
-photo's:
+photos:
   - https://res.cloudinary.com/ddio9vlzi/image/upload/v1680936063/sciencegeek/posts/schilderij-samuel-johnson-jpg
 ---
 
